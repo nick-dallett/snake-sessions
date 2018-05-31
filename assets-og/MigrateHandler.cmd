@@ -1,0 +1,1 @@
+%SystemRoot%\system32\inetsrv\appcmd migrate config "SnakeSessionsApplication"

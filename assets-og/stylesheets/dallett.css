@@ -1,0 +1,135 @@
+BODY
+{
+    BACKGROUND-COLOR: oldlace;
+    FONT-FAMILY: Tahoma,arial
+}
+FORM
+{
+    BORDER-BOTTOM: #000000 2px solid;
+    BORDER-LEFT: #000000 2px solid;
+    BORDER-RIGHT: #000000 2px solid;
+    BORDER-TOP: #000000 2px solid;
+    PADDING-BOTTOM: 5px;
+    PADDING-LEFT: 20px;
+    PADDING-RIGHT: 20px;
+    PADDING-TOP: 20px
+}
+TR
+{
+    CURSOR: hand
+}
+.inputbox
+{
+    BORDER-BOTTOM: #000000 1px solid;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid
+}
+.title
+{
+    BACKGROUND-COLOR: activecaption;
+    COLOR: highlighttext;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    PADDING-BOTTOM: 2px;
+    PADDING-LEFT: 2px;
+    PADDING-RIGHT: 2px;
+    PADDING-TOP: 2px;
+    WIDTH: 100%
+}
+.paddy
+{
+    padding-left:20px;
+}
+H1
+{
+}
+A
+{
+    COLOR: #0000c0;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    COLOR: #c00000;
+    TEXT-DECORATION: underline
+}
+.label
+{
+    FONT-FAMILY: verdana, arial;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold
+}
+.btn
+{
+    FONT-WEIGHT: bold;
+    MARGIN: 1px;
+    WIDTH: 100px
+}
+.spreadsheet
+{
+    FONT-FAMILY: arial;
+    FONT-SIZE: 9pt;
+    HEIGHT: 12px;
+    PADDING-RIGHT: 5px;
+    TABLE-LAYOUT: fixed
+}
+.col1
+{
+    BACKGROUND-COLOR: #ffffd0
+}
+.col2
+{
+    BACKGROUND-COLOR: #d0fff0
+}
+.selectedItem
+{
+    BACKGROUND-COLOR: #000050;
+    COLOR: #fff000
+}
+.debit
+{
+    COLOR: #ff0000
+}
+.credit
+{
+}
+.dialog
+{
+    BACKGROUND-COLOR: buttonface
+}
+.teeny
+{
+    FONT-FAMILY: arial narrow;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold
+}
+
+.statusValid
+{
+	background-color:	#008000;
+	color:				#FFFFF0;
+}
+
+.statusAmbiguous
+{
+	background-color:	#FFFF00;
+}
+
+.statusInserted
+{
+	background-color:	#0000C0;
+	color:				#FFFFFF;
+}
+.statusUpdated
+{
+	background-color:	#00F000;
+}
+
+.statusNone
+{
+	background-color:	#FFFFFF;
+}

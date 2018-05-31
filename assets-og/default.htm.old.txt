@@ -1,0 +1,221 @@
+<HTML>
+	<HEAD>
+		<link rel="stylesheet" href="stylesheets\dallett.css">
+	</HEAD>
+	<BODY>
+		<h1>Nick ("Snake") Dallett</h1>
+		<ul>
+			<div style="font-family:courier;font-size:9pt;">
+				<p>Photo-documenting my recent return to skateboarding. I've skated off and on over 
+					the last 28 years.
+				</p>
+				<p>I grew up 5 blocks from Brentwood school in West L.A., <A href="vids/Brentwood_340.wmv">learned to skate on the 
+					asphalt banks there</A>, and the world you see documented in <I>Dogtown and Z-Boys</I>
+					pretty much describes the world I grew up in (except that we lived on the 
+					"right" side of Wilshire Blvd, which meant that I grew up better educated but 
+					never developed the skate skills of the guys we idolized - Tony Alva and Jay 
+					Adams and their posse.</p>
+				<p>In 1978, <A href="1978Contest">I placed 5th</A> in the Bay Street freestyle competition in Santa Monica, 
+					California. That was the peak of my skating career.</p>
+				<!--p>For related material, have a look at some shots from the recent <A href="Deathbox_Seattle_center">
+						Deathbox Skateboards demo</A> at Seattle Center</p-->
+				<P>Today, I am a proud member of Seattle's <A href="http://www.omlb.com">Old Man Lunch Brigade.</A>  You can also find me on the <A href="http://www.sleestak.net/forum">Sleestak forum</A>, posting as Snake.
+			</div>
+		</ul>
+		<hr noshade>
+		<!--h3>Still Shots</h3-->
+		<!--P>Some crap moves - Taken on a rainy day, on my rain board, with a bum ankle and a 
+				pulled hamstring...</P>
+			<ul>
+				<LI>
+					<A href="axlestall.htm">ollie to axlestall, nollie off</A></LI>
+				<LI>
+					<A href="bankslide.htm">bankslide</A> on the hip at the towyards</LI>
+				<LI>
+					<A href="ollie.htm">ollie</A></LI>
+				<LI>
+					<A href="ollie2fakie.htm">ollie to fakie</A> on the hip at the towyards</LI>
+			</ul>
+			<P>...And on a better day on my tech board
+			-->
+		<UL>
+<LI><A href="snakesessions.htm">Snake Sessions</A> - I finally sucked all my pix and video into a database and provided a searchable interface.  Bug reports/updates/requests are welcome.
+
+<P>-Snake
+
+<!--P>
+<P>
+<P>
+<P>
+<LI><A href="Leavenworth_6-20-2004">Leavenworth, 6-20-2004</A> - On father's day, Christian and I both hit Grindline's latest park in Leavenworth, WA
+<LI><A HREF="Milton_6-12-2004">Milton, 6-12-2004</A> - Matt snapped some shots of me and Gravity Dave at an early morning Milton session
+<LI><A HREF="Cali%5FMay2004/">Spring Trip 2004</A> - 3-week road trip from Seattle to San Diego and back May 15-June 6 2004</LI>
+<LI><A href="Milton_5-8-2004">Milton!</A> - opening day at the latest Grindline miracle
+<LI><A href="Carnation_5-3-2004">Carnation</A> - lunch session 5-3-2004
+<LI><A href="http://snake.kittycrack.net/Ballard%5F5%2D2%2D2004/">Ballard</A> - 5-2-2004.  George, Shawn, Greg, Andy, Davee, Mark, and myself
+<LI><A HREF="Bainbridge_5-1-2004">Thrash Bash 2!</A> - the Sleestak crew hits Bainbridge Island
+<LI><A href="Ballard_4-25-2004">Ballard</A> - 4-25-2004 Andre and Shawn tear it up
+<LI><A HREF="Carnation_4-19-2004">Scooter session!!!</A> - OMLB lunch session at Carnation
+<LI><A HREF="Ballard_4-18-2004">Ballard</A> - 4-18-2004. Pictures from church on a beautiful spring day.
+<LI><A HREF="Carnation_4-12-2004">Carnation</A> - lunch session with the OMLB
+<LI><A HREF="Ballard_4-10-2004">Ballard bowl</A> - 4-10-2004:  Eric, George, Zeb, Mike, Phoenix, and me
+<LI><A HREF="April_2-4_2004">April 2-4</A>- Mill Creek, Bainbridge, and Ballard
+<LI><A HREF="Ballard_3-28-2004">Ballard</A> - March 28, 2004
+<LI><A HREF="Carnation_3-22-2004">Carnation</A> - Skating the new Grindline park in Carnation with OMLB 3-22-2004
+<LI><A HREF="PortTownsend_3-21-2004">Port Townsend</A> - March 21, 2004:  skating the 6' miniramp with Matt Pickard
+<LI><A HREF="pix/Nick_FSGrind_MillCreek_Shitbird.JPG">Grinding at Mill Creek</A> - taken by Old Wave Dave March '04.  I'm riding the prototype of the shitbird "Ditch Bitch"
+<LI><A HREF="greenpoint%5F3%2D3%2D2004">New York</A> - skating the Greenpoint bowl with Ryan Crase, March 2004</LI>
+<LI><A href="Innerspace_2-16-2004">OMLB at Innerspace 2-6-2004</A> MLJ, Chad, Glenno, Isaac, and I </LI>
+<LI><A HREF="MillCreek%5F2%2D2%2D04/">Mill Creek night session</A> - 2-2-2004: Swervo, TA, Glenno, Christian, Corey, Me, and Nicky</LI>
+<LI><A href="Ballard%5FWinter%5F2003/">Me skating Ballard</A> - shots by Brock McNalley and others
+<LI><A HREF="Ballard_Meeting_2">save Ballard!</A> - the second city parks meeting to discuss 'dozing the bowl</LI>
+<LI><A HREF="Ballard_1-3-2003">Snow day</A> - Dan skating Ballard in the snow
+<LI><A HREF="Ballard_Xmas_Week_03">More Christmas week</A> - 12/28 and 12/29</LI>
+<LI><A HREF="Ballard_12-26_12-27-2003">Christmas week, 2003</A> - I skated all week.  Here's 12/26 and 12/27</LI>
+<LI><A HREF="Ballard_11-15-2003">Ballard, tarped!</A>  11-15-2003  Also see <A href="http://www.policygov.com/skate/ballard15.html">Dan's shots</A> from the same day</LI>
+<LI><A HREF="Ballard_11-8-2003">Ballard Bowl, 11-8-2003</A> - George, Max, Ray, Shawn, Swervo</LI>
+			<LI><A HREF="Orcas%5F10%2D25%2D2003/">Bring yer own session</A> - Orcas island, 10/25/03
+			<LI>10-13-2003 - Ballard - Nick finally gets coping in the deep end. <A HREF="Ballard_10-12-2003/Snake_Coping_Deepend_Ballard.JPG">Pic</A> <A href="Ballard_10-12-2003/BallardFirstCoping.wmv">Video</A></LI>
+			<LI><A HREF="Ballard_10-11-03/Shawn_Job.JPG">Shawn McLean</A> showing his deeply felt respect for Northwest weather</LI>
+			<LI><A HREF="Ballard_10-9-2003">Ballard bowl, 10-9-03 - Ryan, Piers, and Wes</A></LI>
+			<LI><A HREF="Ballard_9-21-03">Ballard bowl, 9-21-03 - George</A></LI>
+			<LI><A HREF="pix/bearings">How to assemble a skate wheel</A> (including why spacers are important)</LI>
+			<LI><A HREF="http://snake.kittycrack.net/oregon/">My Oregon Adventure</A> - text, stills, and video from Matt's and my trip to Oregon the week of 9-15-2003</LI>
+			<LI><A HREF="Orcas_8-3-2003">Orcas Island August 2nd and 3rd, 2003 (no shots of me)</A>
+			<LI><A href="July-03-freestyle">Freestyle practice, July '03</A>
+			<LI><A href="July_2003">Tranny skating, June - July 2003</A>
+			<LI><A href="2-9-2003">The insane wall, and Ballard - 2-9-2003</A>
+			<LI><A HREF="omlb/omlb_02-04-2003">The Old Man Lunch Brigade</A> - Redmond, February 4, 2003
+			<LI><A HREF="omlb_sumner">The Old Man Lunch Brigade visits Sumner - 3-1-2003</A>
+			<LI><A href="Ballard_2-22_2-23_2003">Ballard_2-22_2-23_2003</A>
+			<LI><A href="Ballard_2-8-2003">Ballard_2-8-2003</A>
+			<LI><A href="Burien_5-31-2003">Burien_5-31-2003</A>
+			<LI><A href="Kenmore_5-15-2003">Kenmore_5-15-2003</A>
+			<LI><A href="Thanksgiving_2002">Thanksgiving_2002</A>
+
+			<li>
+				<a href="pix/Wornout_skate_shoes.JPG">What I do to shoes...</a></li>
+			<LI>    <a href="pix/Worn-out_Jeans.JPG">What I do to pants...</A>
+			<li>
+				<a href="10-6-2002">10-6-2002, with Matt and Dax</a></li>
+			<li>
+				<a href="Thanksgiving_2002">Thanksgiving 2002 at Redmond</a></li>
+			<li>
+				<a href="omlb/omlb - 11-13-2002/Snake_Backside_Air_11-13-2002.JPG">Backside 
+					air at Redmond</a></li>
+			<LI>
+				<A href="popshuvit_1">Pop-shuvit</A></LI>
+			<LI>
+				<A href="popshuvit_2">Pop-shuvit (2)</A></LI>
+			<LI>
+				<A href="popshuvit_3">Pop-shuvit(3)</A></LI>
+			<LI>
+				<A href="kickflip">Old School Kickflip</A></LI>
+			<li>
+				<a href="pix/Snake_Dirtboard.GIF">Dirtboarding</a> - back in 1990</li>
+		</UL>
+		<h3>Sequences</h3>
+		I pulled stills from several videos to create some <A href="composites/bertlemans.htm">
+			Skateboarder Magazine style sequences</A>...
+
+		<h3>Video clips</h3>
+		<ul>
+<A href="http://snake.kittycrack.net/MillCreek_2-2-04/MillCreek_Web.wmv">Mill Creek</A> - February 2004
+<LI><A href="http://snake.kittycrack.net/Ballard_Winter_2003/tarped.wmv">Tarped</A> - skating under the tarp at Ballard, November 2003
+<LI><A href="http://snake.kittycrack.net/vids/Oregon/Oregon_Lowres.wmv">Oregon</A> - a skatepark tour, Sept. 2003
+			<LI>	<A href="vids/Brentwood_340.wmv">Dogtown style - skating Brentwood school in 1977</A>
+			<LI><A HREF="vids/XRoads_Ramp.wmv">The Crossroads ramp</A> - very sketchy "ramp" on the bball court at school, 1978
+<LI><A href="vids/MarinaDelRey_340.wmv">Marina Del Rey</A> - opening day at dogtown's home skatepark
+			<LI> <A HREF="vids/PTRamp_lowres.wmv">The Alderhill ramp</A> - on my patio in Port Townsend, mid to late '80s, early 90s
+			<LI>
+				<A href="vids/pop_pop_kick.wmv">Mixing the old and new</A> - two pop-shuvits 
+				and an oldschool kickflip</LI>
+			<LI>
+				<A HREF="vids/8-4-2002/Snake_Bertleman_Renton.MOV">Bertleman slide - Renton, WA 
+					skatepark</A>
+			<LI>
+				<A HREF="vids/8-4-2002/Snake_Bert_Revert_Burien.MOV">Bert revert (360 Bertleman) - 
+					Burien, WA skatepark</A>
+			<LI>
+				<A HREF="vids/8-4-2002/Snake_Sweet_540_renton.MOV">Frontside bank 540 - Renton</A>
+			<LI>
+				<A HREF="vids/8-4-2002/Snake_Switch_360_2.MOV">Switch bank 360 - Renton</A>
+			<LI>
+				<A HREF="vids/8-4-2002/Snake_Whore_900.MOV">Bank 900 - Whorehouse bank, Kirkland, 
+					WA</A>
+			<LI>
+				<A HREF="vids/8-4-2002/Snake_2wheelbert_Burien.MOV">2 wheel Bertleman - Burien</A>
+			<LI>
+				<A HREF="vids/8-4-2002/Snake_540_Backside.MOV">Backside 540 - Renton</A>
+			<LI>
+				<A HREF="vids/8-4-2002/Snake_Whore_Pop_Shuvit.MOV">Pop Shuvit, Whorehouse bank</A>
+			</LI>
+		</ul>
+		<H3>Board Graphics</H3>
+		<P>
+			- Board #1
+			<UL>
+				<LI>
+					<A HREF="pix/nosedetail.JPG">Closeup the nose</A></LI>
+				<LI>
+					<A HREF="pix/skategrafix.JPG">The board before setting it up</A></LI>
+				<LI>
+					<A HREF="pix/skatelogo.JPG">Closeup on the Dogtown logo</A></LI>
+				<LI>
+					<A HREF="pix/skatesetup.JPG">The full board, with Grind Kings and Powell mini-logo 
+						wheels</A></LI>
+				<LI>
+					<A HREF="pix/taildetail.JPG">Closeup on the tail</A></LI>
+			</UL>
+			-Board #2
+			<UL>
+				<li>
+					<a href="pix/DT-Snake-Luna-bw.JPG">In Progress</a> - black linework done</li>
+				<li>
+					<a href="pix/DT-Snake-Luna-color.JPG">In Progress (hi-res)</a> <a href="pix/DT-Snake-Luna-color_small.JPG">
+						(lo-res)</a> - color work done</li>
+				<li>
+					<a href="pix/snake_gripart.JPG">Grip art on the top of the deck</a></li>
+			</UL>
+			- Other quiver shots
+			<UL>
+				<li>
+					<a href="rainboard">My rain board</a> (now defunct)</li>
+				<li>
+					<a href="pix/deathbox_small.JPG">Deathbox Jay Adams</a>
+					<ul>
+						<li>
+							...with <A href="pix/no_skoolz_small.JPG">60mm/92a No-Skoolz</A> (<a href="pix/no_skoolz_detail.JPG">closeup</a>) 
+							from <a href="http://www.abec11.com" target="_blank">ABEC11</a></li>
+					</ul>
+				</li>
+				<LI><A href="pix/Quiver_6-13-2003.JPG">Quiver, June 2003</A>
+				<UL>
+					<LI>(Park longboard) Comet Proflex Park 36" with Tracker sixtracks and black label red cross wheels
+					<LI>(Park shortboard) Deathbox Jay Adams, Indy 16 and ABEC11 NoSkoolz 60mm/92a
+					<LI>(Rain board)Blankdecks.com oldschool deck, tracker mids, Santa Cruz Bullet 66
+					<LI>(Street/Freestyle board) Shuvit blank, Grind King trucks, Powell mini-logo wheels
+</UL>
+
+			</UL>
+<H3>Eastside Skate spots</H3>
+			<ul>
+				<LI>
+					<A href="pix/P1010001.JPG">The vet clinic</A> - fun little asphalt bank</LI>
+				<LI>
+					<A href="pix/P1010002.JPG">The onramp</A> - one of these days before rush hour...</LI>
+				<LI>
+					<A href="pix/P1010003.JPG">The yellow banks</A> west side</LI>
+				<LI>
+					<A href="pix/P1010004.JPG">The yellow banks</A> west side profile</LI>
+				<LI>
+					<A href="pix/P1010005.JPG">The yellow banks</A> east side</LI>
+				<LI>
+					<A href="pix/P1010006.JPG">The yellow banks</A> second bank</LI>
+				<LI>
+					<A href="pix/towyard_long.JPG">The towyards</A> long view down the banks</LI>
+				<LI>
+					<A href="pix/towyard_detail.JPG">The towyards</A> Face on to the banks</LI>
+				<LI>
+					<A href="pix/towyard_hip.JPG">The towyards</A> The hip across from the banks</LI>
+			</ul-->
