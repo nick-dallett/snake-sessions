@@ -1,0 +1,8 @@
+2	2	Two
+4	4	Four
+6	6	Six
+8	8	Eight
+10	10	Ten
+12	12	Twelve
+14	14	Fourteen
+16	16	Sixteen

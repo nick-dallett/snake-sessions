@@ -1,0 +1,279 @@
+3	NULL	NULL	Morning Crew	NULL	NULL
+5	Andre	Dzwonkowski		NULL	NULL
+6	Andy		Andy the ape	NULL	NULL
+7	Bill			NULL	NULL
+8	Brock	McNally		NULL	NULL
+10	Carl	Jorgenson	AuggieDawg	NULL	NULL
+12	Cathy	Tuttle		NULL	NULL
+13	Chad	Richmond		NULL	NULL
+15	Chris	Jolles		NULL	NULL
+16	Chris	Farrar	Stonefly	NULL	NULL
+17	Christian	Carroll	Mr. Christian	NULL	NULL
+18	Dan	Hughes	Darth	NULL	NULL
+19	Dave	Carmen	OldWaveDave	NULL	NULL
+20	Dave			NULL	NULL
+21	Davey			NULL	NULL
+22	David	Hackett	NULL	NULL	NULL
+23	David	Lawrence	NULL	NULL	NULL
+26	Dax	Vasiliou	Condor	NULL	NULL
+27	Duane	Peters	NULL	NULL	NULL
+28	Eddie	Hadvina	AKAEddie	NULL	NULL
+29	Emil	Hilding	NULL	NULL	NULL
+30	Eric	Fiscus	BladerHater	NULL	NULL
+32	Erik	Bretz	Zombie	NULL	NULL
+33	Frank	Durham	NULL	NULL	NULL
+34	Gar	NULL	NULL	NULL	NULL
+36	George	Westphal	7-Board George	NULL	NULL
+40	Greg	Dybeck		NULL	NULL
+42	Jackie	Burkhart	NULL	NULL	NULL
+43	James			NULL	NULL
+44	Jason	Davis	DJJD	NULL	NULL
+45	Jason	Harrison	Bobcat	NULL	NULL
+46	Jessica	Starkweather	NULL	NULL	NULL
+47	Jim	Arasim	Jaemzware	NULL	NULL
+48	Joe	T	NULL	NULL	NULL
+49	Katie		Ohgodmontequilla	NULL	NULL
+51	Kevin	Campion	Speedy	NULL	NULL
+52	Kevin	Cortez	RegularKevin	NULL	NULL
+53	Manny	Ostermann	Ostermann	NULL	NULL
+54	Marianne	NULL	NULL	NULL	NULL
+56	Mark	Tagal	TFP	NULL	NULL
+57	Matt			NULL	NULL
+58	Matt		Chowdah	NULL	NULL
+59	Matt	Kenagy	Hickskates	NULL	NULL
+60	Matt	Glenovich	Reverend	NULL	NULL
+61	Matt	Johnston	MLJ	NULL	NULL
+62	Matt	Pickard	Wolfman	NULL	NULL
+63	Max	Hohlbein	Ballard Max	NULL	NULL
+65	Micah	Shapiro		NULL	NULL
+66	Mike	McKinney		NULL	NULL
+67	Mike	Babcock		NULL	NULL
+68	Morris	Wainwright	Mo	NULL	NULL
+71	Natalie			NULL	NULL
+72	Nick	Dallett	Snake	NULL	NULL
+73	Niko	Carmen		NULL	NULL
+74	None			NULL	NULL
+75	Peter	Whitley	Petesahooligan	NULL	NULL
+76	Phoenix	Tagal		NULL	NULL
+77	Piers	NULL	RedDog	NULL	NULL
+79	Randy	Hanford	NULL	NULL	NULL
+81	Rob	Skala	NULL	NULL	NULL
+83	Roy	NULL	Roy Wonder	NULL	NULL
+84	Ryan	Camarillo	NULL	NULL	NULL
+86	Sam	Willis	NULL	NULL	NULL
+87	Scott		Ego	NULL	NULL
+88	Shannon			NULL	NULL
+90	Shawn	McLean		NULL	NULL
+91	Steve	Pingleton	Ping	NULL	NULL
+92	Steve	Alba	Salba	NULL	NULL
+93	Steve	Betten	Swervo	NULL	NULL
+94	Steve	Olson	Bulky	NULL	NULL
+95	Todd	Winkleman	Winklemeat	NULL	NULL
+96	Tom	Aaron	XTeamRider	NULL	NULL
+97	Tom	Miller	NULL	NULL	NULL
+98	Unknown			NULL	NULL
+100	Matt	Levens	Baileydog	NULL	NULL
+101	Vern			NULL	NULL
+102	Wes	Atkins	NULL	NULL	NULL
+104	Jed			NULL	NULL
+105	Payton	Dallett	NULL	NULL	NULL
+106	Tom	Peha	NULL	NULL	NULL
+107	Ryan	Crase	smith_grind	NULL	NULL
+108	Zack	Richardson	Zakima	NULL	NULL
+109	Jim	Anderson	Sheddoggie	NULL	NULL
+110	Dave	NULL	Bainbridge Dave	NULL	NULL
+111	NULL	NULL	Talley	NULL	NULL
+112	Adam	Joslin	Adman	NULL	NULL
+113	Ben	Watts	NULL	NULL	NULL
+114	Daniel	NULL	IronRose	NULL	NULL
+115	Anton	Maglic	OGPOPAnton	NULL	NULL
+116	Pete	NULL	Pete from Weed	NULL	NULL
+117	James	NULL	James from KFalls	NULL	NULL
+118	Josh	NULL	Josh from KFalls	NULL	NULL
+119	Sam	Wohlers	NULL	NULL	NULL
+120	Travis	Augustine	NULL	NULL	NULL
+121	Willie	Cavasso	NULL	NULL	NULL
+122	Katrina	Richter	NULL	NULL	NULL
+123	NULL	NULL	Various	NULL	NULL
+124	Frank	Nasworthy	NULL	NULL	NULL
+125	Herve	Villechaize	NULL	NULL	NULL
+126	NULL	NULL	Team Rhino	NULL	NULL
+127	Dan	Brunner	NULL	NULL	NULL
+128	Paul	Constantineau	PC	NULL	NULL
+129	Mark	Servine	Serviathan	NULL	NULL
+130	John	Veitch	Fireman John	NULL	NULL
+131	Larrold	Norte	El Norte	NULL	NULL
+132	Jeremy	Hughes	NULL	NULL	NULL
+133	John	NULL	Bertleman John	NULL	NULL
+134	Nicky	Wilson	NULL	NULL	NULL
+135	Corey	NULL	NULL	NULL	NULL
+136	Ryan	Hebert	Milton Ryan	NULL	NULL
+137	Doug	NULL	Viejito Loco	NULL	NULL
+138	Isaac	Obezo	El Dook	NULL	NULL
+139	Alex	Lee	AlexL	NULL	NULL
+140	Graham	NULL	Sonnelion	NULL	NULL
+141	Ricky	Styles	NULL	NULL	NULL
+142	Chad	NULL	NULL	NULL	NULL
+143	Mike	Pugh	NULL	NULL	NULL
+144	NULL	NULL	Homeschool	NULL	NULL
+145	Bill	Sammons	VertBill	NULL	NULL
+146	Lonny	Lippold	NULL	NULL	NULL
+147	Dave	Hohlbein	NULL	NULL	NULL
+148	Dave	NULL	Gravity Sports	NULL	NULL
+149	Quincy	Quigg	2xQ	NULL	NULL
+150	Ace	NULL	NULL	NULL	NULL
+151	Jesse	Nelson	Messy Smellson	NULL	NULL
+152	Brian	NULL	NULL	NULL	Orcas local
+153	Frankie	NULL	NULL	NULL	Orcas local
+155	Will	Powers	Will from Southern Oregon	Thompson	NULL
+156	Billie	Bracey	NULL	NULL	NULL
+157	NULL	NULL	Couch	NULL	NULL
+158	NULL	NULL	Shorty	NULL	NULL
+159	Robert	Zimmer	Zim	NULL	NULL
+160	Carl	NULL	Concrete Carl	NULL	NULL
+161	Jason	NULL	Jason 2	NULL	NULL
+162	Ted	Moat	NULL	NULL	NULL
+163	Hudson	NULL	NULL	NULL	NULL
+164	Micah	NULL	NULL	NULL	NULL
+165	Josh	Kerrigan	NULL	NULL	NULL
+166	Enocha		Nokes	NULL	NULL
+167	Steve	NULL	Steve the drunk	NULL	NULL
+168	Tim	Demmon	Timebomb	NULL	
+169	Ben	NULL	NULL	NULL	NULL
+170	Billy	Duong	NULL	NULL	NULL
+171	Nolan	Johnson	NULL	NULL	NULL
+172	Aaron	Deeter	NULL	NULL	NULL
+173	Carter	Dennis	Dusto	NULL	NULL
+174	Ryan	Hass	Hass	NULL	NULL
+175	Dave	Andersen	NULL	NULL	NULL
+176	Chuck	NULL	NULL	NULL	NULL
+177	Arthur	NULL	NULL	NULL	NULL
+178	Don	Whitaker	Vlad the inhaler	NULL	NULL
+179	Paul	Laak	Pablito	NULL	NULL
+180	Ashley	Smart	NULL	NULL	NULL
+181	Dave	Addington	Rockstar	NULL	NULL
+182	Chris	Gilligan	Gilligan	NULL	NULL
+183	Colin	NULL	NULL	NULL	NULL
+184	Dan	Barnett	Dan B	NULL	NULL
+185	Greg	Brandelli	NULL	NULL	NULL
+186	John	NULL	Carvin John	NULL	NULL
+187	NULL	NULL	Malferan	NULL	NULL
+188	Scott B.	Shinn	DonQuixote2	NULL	NULL
+189	Dickey	NULL	NULL	NULL	NULL
+190	Jeff	NULL	NULL	NULL	NULL
+191	Sally	NULL	NULL	NULL	NULL
+192	Dan	NULL	Dirty Dan	NULL	NULL
+193	Chris	Hildebrand	NULL	NULL	NULL
+194	Nate	Miller	NULL	NULL	NULL
+195	Aaron	NULL	NULL	NULL	NULL
+196	Mike	Lynch	Gravity Mike	NULL	NULL
+197	Mike	Fisherman	NULL	NULL	NULL
+198	Ezra	NULL	NULL	NULL	NULL
+199	Shawn	Bishop	NULL	NULL	NULL
+200	Tim	Hayes	NULL	NULL	NULL
+201	Thor	Janda	NULL	NULL	NULL
+202	Will	Gilligan	Skipper	NULL	NULL
+203	Meredith	Gilligan	MaryAnne	NULL	NULL
+204	Mark	NULL	NULL	NULL	NULL
+205	Glen	Charnoski	NULL	NULL	NULL
+206	Steven	Kilgore	NULL	NULL	NULL
+207	Tony	Hawk	Birdman	NULL	NULL
+208	Mike	Shaughnessy	Micro	NULL	NULL
+209	Andy	Harris	NULL	NULL	NULL
+210	Kent	Dahlgren	NULL	NULL	NULL
+211	Mark	Goddard	NULL	NULL	NULL
+212	Chad	Balcom	NULL	NULL	NULL
+213	John	Bracken	NULL	NULL	NULL
+214	Michael	Muir	NULL	NULL	NULL
+215	Elizabeth	Rockett	NULL	NULL	NULL
+216	Dan	NULL	Punk Rock Dan	NULL	NULL
+217	Jeff	Greenwood	NULL	NULL	Founder and webmaster of  Concrete Disciples
+218	Andy	Gilbert	NULL	NULL	NULL
+219	Miki	Vuckovich	NULL	NULL	Director of  Tony Hawk Foundation
+220	Jack	Dunkleberg	SlackJack	NULL	NULL
+221	Nancy	Rockett	NULL	NULL	NULL
+222	Allison	Skala	NULL	NULL	NULL
+223	Dane	Burke	NULL	NULL	NULL
+224	Melvin	NULL	NULL	NULL	NULL
+225	Claire	NULL	NULL	NULL	NULL
+226	Miles	Green	Rebel	NULL	NULL
+227	Carter	NULL	NULL	NULL	NULL
+228	Bailey	NULL	NULL	NULL	NULL
+229	Jeff	NULL	Carter's dad	NULL	NULL
+230	Amanda	Scriven	NULL	NULL	NULL
+231	John	Kieltya	JFK	NULL	NULL
+232	Thomas	Courser	NULL	NULL	NULL
+233	Leo	NULL	Sleo	NULL	NULL
+234	Palmer	NULL	NULL	NULL	NULL
+235	Justin	NULL	NULL	NULL	NULL
+236	Podge	Elvenstar	NULL	NULL	NULL
+237	Neil	Brusseau	NULL	NULL	NULL
+238	Jay	Adams	NULL	NULL	NULL
+239	Shogo	Kubo	NULL	NULL	NULL
+240	Dennis	Agnew	Polar Bear	NULL	NULL
+241	Jerry	Valdez	NULL	NULL	NULL
+242	Dan	NULL	Burien Dan	NULL	NULL
+243	Brett	NULL	NULL	NULL	NULL
+244	Jesse	Weinstock	NULL	NULL	NULL
+245	Brian	Osterbeck	NULL	NULL	NULL
+246	Tony		NULL	NULL	NULL
+247	Zak	NULL	NULL	NULL	NULL
+248	Matt	NULL	NULL	NULL	NULL
+249	Andy	NULL	Zim's pal	NULL	NULL
+250	Peter	NULL	SkateGoodNow	NULL	NULL
+251	Ian	NULL	NULL	NULL	NULL
+252	Sabin	Olson	NULL	NULL	NULL
+253	Alex	Brunelle	Mini-G	NULL	NULL
+254	Jeff	Raynolds	NULL	NULL	NULL
+255	Josh	Snyder	Wasted Youth	NULL	NULL
+256	Brent	Mutter	Thrashin	NULL	NULL
+257	CJ	NULL	NULL	NULL	NULL
+258	Amber	NULL	NULL	NULL	NULL
+259	Dana	NULL	NULL	NULL	NULL
+260	Hayden	Johnson	NULL	NULL	NULL
+261	Brad	Johnson	NULL	NULL	NULL
+262	Dylan	Johnson	NULL	NULL	NULL
+263	Angie	NULL	NULL	NULL	NULL
+264	Adam	Burns	NULL	NULL	NULL
+265	Steve	Davis	NULL	NULL	NULL
+266	Colin	O'Connell	NULL	NULL	NULL
+267	Wade	Maxwell	NULL	NULL	NULL
+268	Mark	Conahan	NULL	NULL	NULL
+269	Julie	Kindstrand	NULL	NULL	NULL
+270	Alizee	NULL	NULL	NULL	NULL
+271	Jon-jon	Bryan	NULL	NULL	NULL
+272	Jesse	Martinez	NULL	NULL	NULL
+273	Buck	Smith	NULL	NULL	NULL
+274	Benji	Galloway	NULL	NULL	NULL
+275	Brian	Patch	NULL	NULL	NULL
+276	Rune 	Glifberg	NULL	NULL	NULL
+277	Morgan	Burgess	NULL	NULL	NULL
+278	Packy	Fancher	NULL	NULL	NULL
+279	Holly	Lyons	NULL	NULL	NULL
+280	Lea	Taylor	NULL	NULL	NULL
+281	Nolan	Munroe	NULL	NULL	NULL
+282	Steve	Steadham	NULL	NULL	NULL
+283	Steve	Grover	NULL	NULL	NULL
+284	Shane	Bell	NULL	NULL	NULL
+285	Rion	Linderman	NULL	NULL	NULL
+286	Jimmy	Marcus	Jimmy The Greek	NULL	NULL
+287	Daniel	Cardone	NULL	NULL	NULL
+288	Michael	O'Friel	NULL	NULL	NULL
+289	Sky	Siljeg	NULL	NULL	NULL
+290	Steve	Reeves	NULL	NULL	NULL
+291	Danny	Tumia	NULL	NULL	NULL
+292	Pat	Ngoho	NULL	NULL	NULL
+293	Sergie	Ventura	NULL	NULL	NULL
+294	Josh	Sandoval	Screech	NULL	NULL
+295	Aaron	Astorga	NULL	NULL	NULL
+296	Allen	Wilkerson	NULL	NULL	Crossroads local
+297	Payton	NULL	NULL	NULL	NULL
+298	Tyler	NULL	NULL	NULL	NULL
+299	Tony	Davies	The Boss	NULL	NULL
+300	Jim	NULL	NULL	NULL	NULL
+301	Sam 	Rittenhouse	NULL	NULL	NULL
+302	Chris	Morgan	NULL	NULL	NULL
+303	Kim	Peterson	NULL	NULL	NULL
+304	Ricky	Bower	NULL	NULL	NULL
+305	Marshall	NULL	NULL	NULL	NULL
+306	Cressey	Rice	NULL	NULL	NULL
