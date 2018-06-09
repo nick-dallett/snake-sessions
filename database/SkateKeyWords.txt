@@ -1,0 +1,881 @@
+374	???	TrickName	 	NULL	
+310	180 ollie	TrickName	 	NULL	
+302	270 shuvit	TrickName	 	NULL	
+247	360 flip	TrickName	 	NULL	
+280	360 rock and roll	TrickName	 	NULL	
+372	5-0 grind	TrickName	 	NULL	
+392	5-0 to tail	TrickName	 	NULL	
+345	50-50 to nollie	TrickName	 	NULL	
+244	540 kickturn	TrickName	 	NULL	
+208	90-90 slide	TrickName	 	NULL	
+205	Air to bank	TrickName	 	NULL	
+213	Air to boardstall	TrickName	 	NULL	
+305	Air to fakie	TrickName	 	NULL	
+284	Air to grind	TrickName	 	NULL	
+264	Air to stall	TrickName	 	NULL	
+198	Air to tail	TrickName	 	NULL	
+182	Alex Brunelle	Photographer	 	NULL	
+155	Alex Lee	Photographer	 	NULL	
+167	Alison Skala	Photographer	 	NULL	
+201	Alley-oop	TrickName	 	NULL	
+375	Alley-oop slide	TrickName	 	NULL	
+245	Andrecht	TrickName	 	NULL	
+321	Ass stall	TrickName	 	NULL	
+162	Auggiedawg	Photographer	 	NULL	
+225	Axle stall	TrickName	 	NULL	
+287	Backside 5-0	TrickName	 	NULL	
+318	Backside 50-50	TrickName	 	NULL	
+387	Backside 540	TrickName	 	NULL	
+232	Backside air	TrickName	 	NULL	
+238	Backside Bertleman	TrickName	 	NULL	
+361	Backside boardslide	TrickName	 	NULL	
+331	Backside carve	TrickName	 	NULL	
+328	Backside carve grind	TrickName	 	NULL	
+278	Backside disaster	TrickName	 	NULL	
+312	Backside feeble	TrickName	 	NULL	
+222	Backside feeble grind	TrickName	 	NULL	
+353	Backside grab	TrickName	 	NULL	
+390	Backside grind	TrickName	 	NULL	
+303	Backside kickturn	TrickName	 	NULL	
+260	Backside layback	TrickName	 	NULL	
+319	Backside ollie	TrickName	 	NULL	
+343	Backside ollie air	TrickName	 	NULL	
+257	Backside ollie to 50-50	TrickName	 	NULL	
+219	Backside ollie to carve	TrickName	 	NULL	
+300	Backside Pivot	TrickName	 	NULL	
+272	backside shuvit	TrickName	 	NULL	
+311	Backside slappie grind	TrickName	 	NULL	
+356	backside slappy grind	TrickName	 	NULL	
+224	Backside smith	TrickName	 	NULL	
+359	Backside smith grind	TrickName	 	NULL	
+320	Backside tail tap	TrickName	 	NULL	
+367	Backside transfer	TrickName	 	NULL	
+202	Backside transfer to 5-0	TrickName	 	NULL	
+236	Backside wallride	TrickName	 	NULL	
+215	Backside wheeler	TrickName	 	NULL	
+7	Backyard Ramp	Park	 	NULL	
+309	Bail	TrickName	 	NULL	
+207	Barefoot frontside air	TrickName	 	NULL	
+179	Bekah Pickard	Photographer	 	NULL	
+14	Bellevue Lodge Pool	Park	 	NULL	
+385	Benihana	TrickName	 	NULL	
+237	Bertleman	TrickName	 	NULL	
+163	Bill Sammons	Photographer	 	NULL	
+220	Blunt	TrickName	 	NULL	
+366	Boardslide	TrickName	 	NULL	
+231	Body varial	TrickName	 	NULL	
+377	Boneless	TrickName	 	NULL	
+339	Boneless to tail	TrickName	 	NULL	
+159	Brock McNally	Photographer	 	NULL	
+301	Buttboarding	TrickName	 	NULL	
+332	Carve over the stairs	TrickName	 	NULL	
+326	Catamaran	TrickName	 	NULL	
+281	Cess slide	TrickName	 	NULL	
+196	Chris Hildebrand	Photographer	 	NULL	
+147	Christian Carroll	Photographer	 	NULL	
+351	Conga line	TrickName	 	NULL	
+216	Crail	TrickName	 	NULL	
+295	Crail grind	TrickName	 	NULL	
+368	Crail slide	TrickName	 	NULL	
+323	Crailslide	TrickName	 	NULL	
+23	Crossroads ramp	Park	 	NULL	
+380	Daffy	TrickName	 	NULL	
+151	Dan Brunner	Photographer	 	NULL	
+145	Dan Hughes	Photographer	 	NULL	
+185	Daniel Brunner	Photographer	 	NULL	
+152	Dave Addington	Photographer	 	NULL	
+164	David Lawrence	Photographer	 	NULL	
+161	Dax Vasiliou	Photographer	 	NULL	
+200	Del mar air	TrickName	 	NULL	
+24	Dirt hill	Park	 	NULL	
+317	Dirtboarding	TrickName	 	NULL	
+340	Disaster	TrickName	 	NULL	
+286	Dismount	TrickName	 	NULL	
+26	Downtown Seattle	Park	 	NULL	
+263	Drop in	TrickName	 	NULL	
+354	Drop-in	TrickName	 	NULL	
+234	Dropping in	TrickName	 	NULL	
+386	eggplant	TrickName	 	NULL	
+154	Erik Bretz	Photographer	 	NULL	
+214	Fakie	TrickName	 	NULL	
+296	Fakie boardslide	TrickName	 	NULL	
+348	Fakie coping grab	TrickName	 	NULL	
+342	Fakie ollie	TrickName	 	NULL	
+246	Fakie to 5-0	TrickName	 	NULL	
+276	Fakie to frontside axle stall	TrickName	 	NULL	
+393	Fakie wallride	TrickName	 	NULL	
+346	Feeble grind	TrickName	 	NULL	
+230	Feeble stall	TrickName	 	NULL	
+277	Fingerflip	TrickName	 	NULL	
+252	Fingerflip lien to tail	TrickName	 	NULL	
+313	Flyout	TrickName	 	NULL	
+235	Fontside tail tap	TrickName	 	NULL	
+209	Foot plant	TrickName	 	NULL	
+29	Fort Worden	Park	 	NULL	
+173	Frank Durham	Photographer	 	NULL	
+275	Frontside 5-0	TrickName	 	NULL	
+267	Frontside 5-0 to revert	TrickName	 	NULL	
+212	Frontside 50-50	TrickName	 	NULL	
+355	Frontside air	TrickName	 	NULL	
+269	Frontside air to tail	TrickName	 	NULL	
+338	Frontside boardslide	TrickName	 	NULL	
+261	Frontside carve	TrickName	 	NULL	
+251	Frontside carve grind	TrickName	 	NULL	
+292	Frontside disaster	TrickName	 	NULL	
+217	Frontside edger	TrickName	 	NULL	
+229	Frontside feeble grind	TrickName	 	NULL	
+282	Frontside grab	TrickName	 	NULL	
+389	Frontside grind	TrickName	 	NULL	
+268	Frontside invert	TrickName	 	NULL	
+314	Frontside kickturn	TrickName	 	NULL	
+369	Frontside ollie	TrickName	 	NULL	
+308	Frontside ollie air	TrickName	 	NULL	
+223	Frontside rock and roll	TrickName	 	NULL	
+293	Frontside roll-in	TrickName	 	NULL	
+265	Frontside smith	TrickName	 	NULL	
+279	Frontside smith grind	TrickName	 	NULL	
+324	Frontside Tail block	TrickName	 	NULL	
+256	Frontside tail tap	TrickName	 	NULL	
+240	Frontside tailslide	TrickName	 	NULL	
+199	Frontside transfer	TrickName	 	NULL	
+306	Frontside wallride	TrickName	 	NULL	
+189	George	Photographer	 	NULL	
+188	Glen Charnoski	Photographer	 	NULL	
+30	Glitter Gulch	Park	 	NULL	
+378	Handplant	TrickName	 	NULL	
+364	Handplant flyout	TrickName	 	NULL	
+32	Highway 520	Park	 	NULL	
+34	Hong Kong streets	Park	 	NULL	
+383	Indy air	TrickName	 	NULL	
+288	Indy transfer	TrickName	 	NULL	
+350	Injury	TrickName	 	NULL	
+36	Innerspace	Park	 	NULL	
+206	J slide	TrickName	 	NULL	
+192	James (Klamath Falls local)	Photographer	 	NULL	
+153	Jeff	Photographer	 	NULL	
+195	Jesse Weinstock	Photographer	 	NULL	
+194	Jim Anderson	Photographer	 	NULL	
+160	Jim Arasim	Photographer	 	NULL	
+187	Joe Breskin	Photographer	 	NULL	
+170	John Bracken	Photographer	 	NULL	
+190	John Kieltya	Photographer	 	NULL	
+259	J-slide	TrickName	 	NULL	
+370	Kickflip	TrickName	 	NULL	
+42	Kirkland school	Park	 	NULL	
+174	Kyle (10 yo Chino local)	Photographer	 	NULL	
+273	Layback	TrickName	 	NULL	
+228	Layback air	TrickName	 	NULL	
+262	Layoff	TrickName	 	NULL	
+362	Layoff slide	TrickName	 	NULL	
+379	Lien air	TrickName	 	NULL	
+315	Lien to tail	TrickName	 	NULL	
+322	Lipslide	TrickName	 	NULL	
+337	Manual	TrickName	 	NULL	
+48	Marginal way	Park	 	NULL	
+183	Matt Pickard	Photographer	 	NULL	
+299	McTwist	TrickName	 	NULL	
+391	Melonchollie	TrickName	 	NULL	
+294	Method transfer	TrickName	 	NULL	
+157	MicroNews	Photographer	 	NULL	
+166	Mike Babcock	Photographer	 	NULL	
+54	Milton-Freewater	Park	 	NULL	
+371	Mute air	TrickName	 	NULL	
+58	My lawn	Park	 	NULL	
+59	N/A	Park	 	NULL	
+341	N/A	TrickName	 	NULL	
+168	Nicik Dallett	Photographer	 	NULL	
+197	Nick (Fontana local)	Photographer	 	NULL	
+180	Nick Dallett	Photographer	 	NULL	
+307	Nollie	TrickName	 	NULL	
+204	None	TrickName	 	NULL	
+297	Nose grab	TrickName	 	NULL	
+335	Nose manual	TrickName	 	NULL	
+227	Nosegrind	TrickName	 	NULL	
+184	Old Wave Dave	Photographer	 	NULL	
+388	Oldschool kickflip	TrickName	 	NULL	
+352	Ollie	TrickName	 	NULL	
+329	Ollie air	TrickName	 	NULL	
+334	Ollie grab	TrickName	 	NULL	
+255	Ollie to 5-0	TrickName	 	NULL	
+363	Ollie to fakie	TrickName	 	NULL	
+210	Ollie to tail	TrickName	 	NULL	
+376	Ollie transfer	TrickName	 	NULL	
+226	One foot carve grind	TrickName	 	NULL	
+336	One-foot carve	TrickName	 	NULL	
+243	One-foot carve grind	TrickName	 	NULL	
+283	One-footed bertleman	TrickName	 	NULL	
+290	One-footed carve	TrickName	 	NULL	
+250	Other	TrickName	 	NULL	
+165	ParisAnne Dallett	Photographer	 	NULL	
+64	Parking lot	Park	 	NULL	
+156	Paul Laak	Photographer	 	NULL	
+241	Pivot	TrickName	 	NULL	
+253	Pop shuvit	TrickName	 	NULL	
+221	Rad scootering	TrickName	 	NULL	
+249	Rail drop	TrickName	 	NULL	
+242	Railslide	TrickName	 	NULL	
+146	Random stranger	Photographer	 	NULL	
+176	Rob Skala	Photographer	 	NULL	
+381	Rock and roll	TrickName	 	NULL	
+360	Rock to fakie	TrickName	 	NULL	
+203	Rock walk	TrickName	 	NULL	
+384	Rockover	TrickName	 	NULL	
+274	Rodeo slide	TrickName	 	NULL	
+325	Roll in	TrickName	 	NULL	
+330	Roll-in	TrickName	 	NULL	
+158	Ryan Crase	Photographer	 	NULL	
+358	Scooter grind	TrickName	 	NULL	
+175	Scott Shinn	Photographer	 	NULL	
+74	Seattle center (Seask8)	Park	 	NULL	
+211	Sex change	TrickName	 	NULL	
+172	Shannon	Photographer	 	NULL	
+181	Shawn McLean	Photographer	 	NULL	
+177	Sheddoggie	Photographer	 	NULL	
+248	Shuvit	TrickName	 	NULL	
+191	Skateboard World magazine	Photographer	 	NULL	
+373	Slob air	TrickName	 	NULL	
+304	Smith transfer	TrickName	 	NULL	
+258	Spine transfer	TrickName	 	NULL	
+291	Stalefish	TrickName	 	NULL	
+239	Stalefish air	TrickName	 	NULL	
+333	Switch 360	TrickName	 	NULL	
+289	Tail block	TrickName	 	NULL	
+233	Tail grab	TrickName	 	NULL	
+347	Tail stall	TrickName	 	NULL	
+271	Tailblock	TrickName	 	NULL	
+382	Tailblock backslide	TrickName	 	NULL	
+254	Tailslide	TrickName	 	NULL	
+316	The fakies	TrickName	 	NULL	
+150	Timothy Demmon	Photographer	 	NULL	
+344	Tire stall	TrickName	 	NULL	
+80	Tobins	Park	 	NULL	
+149	Todd Winkleman	Photographer	 	NULL	
+298	Transfer	TrickName	 	NULL	
+357	Transfer to 50-50	TrickName	 	NULL	
+285	Transfer to fakie	TrickName	 	NULL	
+270	Transfer to tail	TrickName	 	NULL	
+81	Treasure Bowl	Park	 	NULL	
+266	Truckstand	TrickName	 	NULL	
+82	Undisclosed Location	Park	 	NULL	
+83	Unknown	Park	 	NULL	
+148	Unknown	Photographer	 	NULL	
+218	Unknown	TrickName	 	NULL	
+84	Various	Park	 	NULL	
+178	Various	Photographer	 	NULL	
+349	various	TrickName	 	NULL	
+327	Wallie	TrickName	 	NULL	
+86	West Seattle ramp	Park	 	NULL	
+365	Wheeler	TrickName	 	NULL	
+404	Aaron	SkaterFirstName	Aaron 	195	
+405	Aaron	SkaterFirstName	Aaron Astorga	295	
+677	Astorga	SkaterLastName	Aaron Astorga	295	
+406	Aaron	SkaterFirstName	Aaron Deeter	172	
+716	Deeter	SkaterLastName	Aaron Deeter	172	
+407	Ace	SkaterFirstName	Ace 	150	
+409	Adam	SkaterFirstName	"Adam ""Adman"" Joslin"	112	
+881	Adman	skateralias1	"Adam ""Adman"" Joslin"	112	
+763	Joslin	SkaterLastName	"Adam ""Adman"" Joslin"	112	
+408	Adam	SkaterFirstName	Adam Burns	264	
+697	Burns	SkaterLastName	Adam Burns	264	
+411	Alex	SkaterFirstName	"Alex ""AlexL"" Lee"	139	
+883	AlexL	skateralias1	"Alex ""AlexL"" Lee"	139	
+772	Lee	SkaterLastName	"Alex ""AlexL"" Lee"	139	
+410	Alex	SkaterFirstName	"Alex ""Mini-G"" Brunelle"	253	
+690	Brunelle	SkaterLastName	"Alex ""Mini-G"" Brunelle"	253	
+929	Mini-G	skateralias1	"Alex ""Mini-G"" Brunelle"	253	
+412	Alizee	SkaterFirstName	Alizee 	270	
+413	Allison	SkaterFirstName	Allison Skala	222	
+825	Skala	SkaterLastName	Allison Skala	222	
+414	Amanda	SkaterFirstName	Amanda Scriven	230	
+819	Scriven	SkaterLastName	Amanda Scriven	230	
+415	Amber	SkaterFirstName	Amber 	258	
+416	Andre	SkaterFirstName	Andre Dzwonkowski	5	
+723	Dzwonkowski	SkaterLastName	Andre Dzwonkowski	5	
+417	Andy	SkaterFirstName	"Andy ""Andy the ape"""	6	
+884	Andy the ape	skateralias1	"Andy ""Andy the ape"""	6	
+985	Zim's pal	skateralias1	"Andy ""Zim's pal"""	249	
+418	Andy	SkaterFirstName	Andy Gilbert	218	
+730	Gilbert	SkaterLastName	Andy Gilbert	218	
+419	Andy	SkaterFirstName	Andy Harris	209	
+743	Harris	SkaterLastName	Andy Harris	209	
+420	Angie	SkaterFirstName	Angie 	263	
+421	Anton	SkaterFirstName	"Anton ""OGPOPAnton"" Maglic"	115	
+778	Maglic	SkaterLastName	"Anton ""OGPOPAnton"" Maglic"	115	
+934	OGPOPAnton	skateralias1	"Anton ""OGPOPAnton"" Maglic"	115	
+422	Arthur	SkaterFirstName	Arthur 	177	
+423	Ashley	SkaterFirstName	Ashley Smart	180	
+827	Smart	SkaterLastName	Ashley Smart	180	
+424	Bailey	SkaterFirstName	Bailey 	228	
+425	Ben	SkaterFirstName	Ben 	169	
+426	Ben	SkaterFirstName	Ben Watts	113	
+845	Watts	SkaterLastName	Ben Watts	113	
+427	Benji	SkaterFirstName	Benji Galloway	274	
+729	Galloway	SkaterLastName	Benji Galloway	274	
+428	Bill	SkaterFirstName	Bill	7	
+429	Bill	SkaterFirstName	"Bill ""VertBill"" Sammons"	145	
+817	Sammons	SkaterLastName	"Bill ""VertBill"" Sammons"	145	
+975	VertBill	skateralias1	"Bill ""VertBill"" Sammons"	145	
+430	Billie	SkaterFirstName	Billie Bracey	156	
+686	Bracey	SkaterLastName	Billie Bracey	156	
+431	Billy	SkaterFirstName	Billy Duong	170	
+720	Duong	SkaterLastName	Billy Duong	170	
+432	Brad	SkaterFirstName	Brad Johnson	261	
+756	Johnson	SkaterLastName	Brad Johnson	261	
+433	Brent	SkaterFirstName	"Brent ""Thrashin"" Mutter"	256	
+790	Mutter	SkaterLastName	"Brent ""Thrashin"" Mutter"	256	
+972	Thrashin	skateralias1	"Brent ""Thrashin"" Mutter"	256	
+434	Brett	SkaterFirstName	Brett 	243	
+435	Brian	SkaterFirstName	Brian 	152	
+937	Orcas local	skateralias1	Brian 	152	
+436	Brian	SkaterFirstName	Brian Osterbeck	245	
+800	Osterbeck	SkaterLastName	Brian Osterbeck	245	
+437	Brian	SkaterFirstName	Brian Patch	275	
+802	Patch	SkaterLastName	Brian Patch	275	
+438	Brock	SkaterFirstName	Brock McNally	8	
+784	McNally	SkaterLastName	Brock McNally	8	
+439	Buck	SkaterFirstName	Buck Smith	273	
+828	Smith	SkaterLastName	Buck Smith	273	
+440	Carl	SkaterFirstName	Carl 	160	
+885	AuggieDawg	skateralias1	"Carl ""AuggieDawg"" Jorgenson"	10	
+441	Carl	SkaterFirstName	"Carl ""AuggieDawg"" Jorgenson"	10	
+762	Jorgenson	SkaterLastName	"Carl ""AuggieDawg"" Jorgenson"	10	
+898	Concrete Carl	skateralias1	"Carl ""Concrete Carl"""	160	
+442	Carter	SkaterFirstName	Carter 	227	
+443	Carter	SkaterFirstName	"Carter ""Dusto"" Dennis"	173	
+718	Dennis	SkaterLastName	"Carter ""Dusto"" Dennis"	173	
+906	Dusto	skateralias1	"Carter ""Dusto"" Dennis"	173	
+444	Cathy	SkaterFirstName	Cathy Tuttle	12	
+838	Tuttle	SkaterLastName	Cathy Tuttle	12	
+445	Chad	SkaterFirstName	Chad 	142	
+681	Balcom	SkaterLastName	Chad Balcom	212	
+446	Chad	SkaterFirstName	Chad Balcom	212	
+447	Chad	SkaterFirstName	Chad Richmond	13	
+813	Richmond	SkaterLastName	Chad Richmond	13	
+449	Chris	SkaterFirstName	"Chris ""Gilligan"" Gilligan"	182	
+911	Gilligan	skateralias1	"Chris ""Gilligan"" Gilligan"	182	
+731	Gilligan	SkaterLastName	"Chris ""Gilligan"" Gilligan"	182	
+448	Chris	SkaterFirstName	"Chris ""Stonefly"" Farrar"	16	
+726	Farrar	SkaterLastName	"Chris ""Stonefly"" Farrar"	16	
+967	Stonefly	skateralias1	"Chris ""Stonefly"" Farrar"	16	
+450	Chris	SkaterFirstName	Chris Hildebrand	193	
+749	Hildebrand	SkaterLastName	Chris Hildebrand	193	
+451	Chris	SkaterFirstName	Chris Jolles	15	
+761	Jolles	SkaterLastName	Chris Jolles	15	
+703	Carroll	SkaterLastName	"Christian ""Mr. Christian"" Carroll"	17	
+452	Christian	SkaterFirstName	"Christian ""Mr. Christian"" Carroll"	17	
+932	Mr. Christian	skateralias1	"Christian ""Mr. Christian"" Carroll"	17	
+453	Chuck	SkaterFirstName	Chuck 	176	
+454	CJ	SkaterFirstName	CJ 	257	
+455	Claire	SkaterFirstName	Claire 	225	
+456	Colin	SkaterFirstName	Colin 	183	
+457	Colin	SkaterFirstName	Colin O'Connell	266	
+795	O'Connell	SkaterLastName	Colin O'Connell	266	
+458	Corey	SkaterFirstName	Corey 	135	
+900	Couch	skateralias1	Couch	157	
+459	Dan	SkaterFirstName	Dan 	192	
+894	Burien Dan	skateralias1	"Dan ""Burien Dan"""	242	
+682	Barnett	SkaterLastName	"Dan ""Dan B"" Barnett"	184	
+460	Dan	SkaterFirstName	"Dan ""Dan B"" Barnett"	184	
+901	Dan B	skateralias1	"Dan ""Dan B"" Barnett"	184	
+462	Dan	SkaterFirstName	"Dan ""Darth"" Hughes"	18	
+902	Darth	skateralias1	"Dan ""Darth"" Hughes"	18	
+753	Hughes	SkaterLastName	"Dan ""Darth"" Hughes"	18	
+903	Dirty Dan	skateralias1	"Dan ""Dirty Dan"""	192	
+946	Punk Rock Dan	skateralias1	"Dan ""Punk Rock Dan"""	216	
+691	Brunner	SkaterLastName	Dan Brunner	127	
+461	Dan	SkaterFirstName	Dan Brunner	127	
+463	Dana	SkaterFirstName	Dana 	259	
+695	Burke	SkaterLastName	Dane Burke	223	
+464	Dane	SkaterFirstName	Dane Burke	223	
+465	Daniel	SkaterFirstName	Daniel 	114	
+917	IronRose	skateralias1	"Daniel ""IronRose"""	114	
+700	Cardone	SkaterLastName	Daniel Cardone	287	
+466	Daniel	SkaterFirstName	Daniel Cardone	287	
+467	Danny	SkaterFirstName	Danny Tumia	291	
+837	Tumia	SkaterLastName	Danny Tumia	291	
+468	Dave	SkaterFirstName	Dave	20	
+887	Bainbridge Dave	skateralias1	"Dave ""Bainbridge Dave"""	110	
+913	Gravity Sports	skateralias1	"Dave ""Gravity Sports"""	148	
+701	Carmen	SkaterLastName	"Dave ""OldWaveDave"" Carmen"	19	
+471	Dave	SkaterFirstName	"Dave ""OldWaveDave"" Carmen"	19	
+936	OldWaveDave	skateralias1	"Dave ""OldWaveDave"" Carmen"	19	
+671	Addington	SkaterLastName	"Dave ""Rockstar"" Addington"	181	
+469	Dave	SkaterFirstName	"Dave ""Rockstar"" Addington"	181	
+951	Rockstar	skateralias1	"Dave ""Rockstar"" Addington"	181	
+674	Andersen	SkaterLastName	Dave Andersen	175	
+470	Dave	SkaterFirstName	Dave Andersen	175	
+472	Dave	SkaterFirstName	Dave Hohlbein	147	
+751	Hohlbein	SkaterLastName	Dave Hohlbein	147	
+473	Davey	SkaterFirstName	Davey	21	
+474	David	SkaterFirstName	David Hackett	22	
+740	Hackett	SkaterLastName	David Hackett	22	
+475	David	SkaterFirstName	David Lawrence	23	
+771	Lawrence	SkaterLastName	David Lawrence	23	
+899	Condor	skateralias1	"Dax ""Condor"" Vasiliou"	26	
+476	Dax	SkaterFirstName	"Dax ""Condor"" Vasiliou"	26	
+840	Vasiliou	SkaterLastName	"Dax ""Condor"" Vasiliou"	26	
+672	Agnew	SkaterLastName	"Dennis ""Polar Bear"" Agnew"	240	
+477	Dennis	SkaterFirstName	"Dennis ""Polar Bear"" Agnew"	240	
+945	Polar Bear	skateralias1	"Dennis ""Polar Bear"" Agnew"	240	
+478	Dickey	SkaterFirstName	Dickey 	189	
+479	Don	SkaterFirstName	"Don ""Vlad the inhaler"" Whitaker"	178	
+977	Vlad the inhaler	skateralias1	"Don ""Vlad the inhaler"" Whitaker"	178	
+848	Whitaker	SkaterLastName	"Don ""Vlad the inhaler"" Whitaker"	178	
+480	Doug	SkaterFirstName	Doug 	137	
+976	Viejito Loco	skateralias1	"Doug ""Viejito Loco"""	137	
+481	Duane	SkaterFirstName	Duane Peters	27	
+804	Peters	SkaterLastName	Duane Peters	27	
+482	Dylan	SkaterFirstName	Dylan Johnson	262	
+757	Johnson	SkaterLastName	Dylan Johnson	262	
+882	AKAEddie	skateralias1	"Eddie ""AKAEddie"" Hadvina"	28	
+483	Eddie	SkaterFirstName	"Eddie ""AKAEddie"" Hadvina"	28	
+741	Hadvina	SkaterLastName	"Eddie ""AKAEddie"" Hadvina"	28	
+484	Elizabeth	SkaterFirstName	Elizabeth Rockett	215	
+815	Rockett	SkaterLastName	Elizabeth Rockett	215	
+485	Emil	SkaterFirstName	Emil Hilding	29	
+750	Hilding	SkaterLastName	Emil Hilding	29	
+486	Enocha	SkaterFirstName	"Enocha ""Nokes"""	166	
+933	Nokes	skateralias1	"Enocha ""Nokes"""	166	
+891	BladerHater	skateralias1	"Eric ""BladerHater"" Fiscus"	30	
+487	Eric	SkaterFirstName	"Eric ""BladerHater"" Fiscus"	30	
+727	Fiscus	SkaterLastName	"Eric ""BladerHater"" Fiscus"	30	
+689	Bretz	SkaterLastName	"Erik ""Zombie"" Bretz"	32	
+488	Erik	SkaterFirstName	"Erik ""Zombie"" Bretz"	32	
+986	Zombie	skateralias1	"Erik ""Zombie"" Bretz"	32	
+489	Ezra	SkaterFirstName	Ezra 	198	
+721	Durham	SkaterLastName	Frank Durham	33	
+490	Frank	SkaterFirstName	Frank Durham	33	
+491	Frank	SkaterFirstName	Frank Nasworthy	124	
+791	Nasworthy	SkaterLastName	Frank Nasworthy	124	
+492	Frankie	SkaterFirstName	Frankie 	153	
+938	Orcas local	skateralias1	Frankie 	152	
+493	Gar	SkaterFirstName	Gar 	34	
+880	7-Board George	skateralias1	"George ""7-Board George"" Westphal"	36	
+494	George	SkaterFirstName	"George ""7-Board George"" Westphal"	36	
+847	Westphal	SkaterLastName	"George ""7-Board George"" Westphal"	36	
+705	Charnoski	SkaterLastName	Glen Charnoski	205	
+495	Glen	SkaterFirstName	Glen Charnoski	205	
+496	Graham	SkaterFirstName	Graham 	140	
+964	Sonnelion	skateralias1	"Graham ""Sonnelion"""	140	
+688	Brandelli	SkaterLastName	Greg Brandelli	185	
+497	Greg	SkaterFirstName	Greg Brandelli	185	
+722	Dybeck	SkaterLastName	Greg Dybeck	40	
+498	Greg	SkaterFirstName	Greg Dybeck	40	
+499	Hayden	SkaterFirstName	Hayden Johnson	260	
+758	Johnson	SkaterLastName	Hayden Johnson	260	
+500	Herve	SkaterFirstName	Herve Villechaize	125	
+842	Villechaize	SkaterLastName	Herve Villechaize	125	
+501	Holly	SkaterFirstName	Holly Lyons	279	
+777	Lyons	SkaterLastName	Holly Lyons	279	
+916	Homeschool	skateralias1	Homeschool	144	
+502	Hudson	SkaterFirstName	Hudson 	163	
+503	Ian	SkaterFirstName	Ian 	251	
+908	El Dook	skateralias1	"Isaac ""El Dook"" Obezo"	138	
+504	Isaac	SkaterFirstName	"Isaac ""El Dook"" Obezo"	138	
+797	Obezo	SkaterLastName	"Isaac ""El Dook"" Obezo"	138	
+719	Dunkleberg	SkaterLastName	"Jack ""SlackJack"" Dunkleberg"	220	
+505	Jack	SkaterFirstName	"Jack ""SlackJack"" Dunkleberg"	220	
+960	SlackJack	skateralias1	"Jack ""SlackJack"" Dunkleberg"	220	
+696	Burkhart	SkaterLastName	Jackie Burkhart	42	
+506	Jackie	SkaterFirstName	Jackie Burkhart	42	
+507	James	SkaterFirstName	James	43	
+919	James from KFalls	skateralias1	"James ""James from KFalls"""	117	
+508	Jason	SkaterFirstName	Jason 	161	
+892	Bobcat	skateralias1	"Jason ""Bobcat"" Harrison"	45	
+744	Harrison	SkaterLastName	"Jason ""Bobcat"" Harrison"	45	
+510	Jason	SkaterFirstName	"Jason ""Bobcat"" Harrison"	45	
+714	Davis	SkaterLastName	"Jason ""DJJD"" Davis"	44	
+904	DJJD	skateralias1	"Jason ""DJJD"" Davis"	44	
+509	Jason	SkaterFirstName	"Jason ""DJJD"" Davis"	44	
+920	Jason 2	skateralias1	"Jason ""Jason 2"""	161	
+670	Adams	SkaterLastName	Jay Adams	238	
+511	Jay	SkaterFirstName	Jay Adams	238	
+512	Jed	SkaterFirstName	Jed	104	
+513	Jeff	SkaterFirstName	Jeff 	190	
+895	Carter's dad	skateralias1	"Jeff ""Carter's dad"""	229	
+738	Greenwood	SkaterLastName	Jeff Greenwood	217	
+514	Jeff	SkaterFirstName	Jeff Greenwood	217	
+515	Jeff	SkaterFirstName	Jeff Raynolds	254	
+810	Raynolds	SkaterLastName	Jeff Raynolds	254	
+754	Hughes	SkaterLastName	Jeremy Hughes	132	
+516	Jeremy	SkaterFirstName	Jeremy Hughes	132	
+517	Jerry	SkaterFirstName	Jerry Valdez	241	
+839	Valdez	SkaterLastName	Jerry Valdez	241	
+519	Jesse	SkaterFirstName	"Jesse ""Messy Smellson"" Nelson"	151	
+926	Messy Smellson	skateralias1	"Jesse ""Messy Smellson"" Nelson"	151	
+792	Nelson	SkaterLastName	"Jesse ""Messy Smellson"" Nelson"	151	
+518	Jesse	SkaterFirstName	Jesse Martinez	272	
+780	Martinez	SkaterLastName	Jesse Martinez	272	
+520	Jesse	SkaterFirstName	Jesse Weinstock	244	
+846	Weinstock	SkaterLastName	Jesse Weinstock	244	
+521	Jessica	SkaterFirstName	Jessica Starkweather	46	
+830	Starkweather	SkaterLastName	Jessica Starkweather	46	
+676	Arasim	SkaterLastName	"Jim ""Jaemzware"" Arasim"	47	
+918	Jaemzware	skateralias1	"Jim ""Jaemzware"" Arasim"	47	
+523	Jim	SkaterFirstName	"Jim ""Jaemzware"" Arasim"	47	
+675	Anderson	SkaterLastName	"Jim ""Sheddoggie"" Anderson"	109	
+522	Jim	SkaterFirstName	"Jim ""Sheddoggie"" Anderson"	109	
+956	Sheddoggie	skateralias1	"Jim ""Sheddoggie"" Anderson"	109	
+524	Jimmy	SkaterFirstName	"Jimmy ""Jimmy The Greek"" Marcus"	286	
+922	Jimmy The Greek	skateralias1	"Jimmy ""Jimmy The Greek"" Marcus"	286	
+779	Marcus	SkaterLastName	"Jimmy ""Jimmy The Greek"" Marcus"	286	
+525	Joe	SkaterFirstName	Joe T	48	
+833	T	SkaterLastName	Joe T	48	
+526	John	SkaterFirstName	John 	130	
+889	Bertleman John	skateralias1	"John ""Bertleman John"""	133	
+896	Carvin John	skateralias1	"John ""Carvin John"""	186	
+910	Fireman John	skateralias1	"John ""Fireman John"""	130	
+921	JFK	skateralias1	"John ""JFK"" Kieltya"	231	
+528	John	SkaterFirstName	"John ""JFK"" Kieltya"	231	
+766	Kieltya	SkaterLastName	"John ""JFK"" Kieltya"	231	
+687	Bracken	SkaterLastName	John Bracken	213	
+527	John	SkaterFirstName	John Bracken	213	
+693	Bryan	SkaterLastName	Jon-jon Bryan	271	
+529	Jon-jon	SkaterFirstName	Jon-jon Bryan	271	
+530	Josh	SkaterFirstName	Josh 	118	
+923	Josh from KFalls	skateralias1	"Josh ""Josh from KFalls"""	118	
+532	Josh	SkaterFirstName	"Josh ""Screech"" Sandoval"	294	
+818	Sandoval	SkaterLastName	"Josh ""Screech"" Sandoval"	294	
+954	Screech	skateralias1	"Josh ""Screech"" Sandoval"	294	
+533	Josh	SkaterFirstName	"Josh ""Wasted Youth"" Snyder"	255	
+829	Snyder	SkaterLastName	"Josh ""Wasted Youth"" Snyder"	255	
+978	Wasted Youth	skateralias1	"Josh ""Wasted Youth"" Snyder"	255	
+531	Josh	SkaterFirstName	Josh Kerrigan	165	
+765	Kerrigan	SkaterLastName	Josh Kerrigan	165	
+534	Julie	SkaterFirstName	Julie Kindstrand	269	
+768	Kindstrand	SkaterLastName	Julie Kindstrand	269	
+535	Justin	SkaterFirstName	Justin 	235	
+536	Katie	SkaterFirstName	"Katie ""Ohgodmontequilla"""	49	
+935	Ohgodmontequilla	skateralias1	"Katie ""Ohgodmontequilla"""	49	
+537	Katrina	SkaterFirstName	Katrina Richter	122	
+814	Richter	SkaterLastName	Katrina Richter	122	
+711	Dahlgren	SkaterLastName	Kent Dahlgren	210	
+538	Kent	SkaterFirstName	Kent Dahlgren	210	
+708	Cortez	SkaterLastName	"Kevin ""RegularKevin"" Cortez"	52	
+540	Kevin	SkaterFirstName	"Kevin ""RegularKevin"" Cortez"	52	
+949	RegularKevin	skateralias1	"Kevin ""RegularKevin"" Cortez"	52	
+699	Campion	SkaterLastName	"Kevin ""Speedy"" Campion"	51	
+539	Kevin	SkaterFirstName	"Kevin ""Speedy"" Campion"	51	
+965	Speedy	skateralias1	"Kevin ""Speedy"" Campion"	51	
+909	El Norte	skateralias1	"Larrold ""El Norte"" Norte"	131	
+541	Larrold	SkaterFirstName	"Larrold ""El Norte"" Norte"	131	
+794	Norte	SkaterLastName	"Larrold ""El Norte"" Norte"	131	
+542	Lea	SkaterFirstName	Lea Taylor	280	
+836	Taylor	SkaterLastName	Lea Taylor	280	
+543	Leo	SkaterFirstName	Leo 	233	
+961	Sleo	skateralias1	"Leo ""Sleo"""	233	
+775	Lippold	SkaterLastName	Lonny Lippold	146	
+544	Lonny	SkaterFirstName	Lonny Lippold	146	
+924	Malferan	skateralias1	Malferan	187	
+545	Manny	SkaterFirstName	"Manny ""Ostermann"" Ostermann"	53	
+939	Ostermann	skateralias1	"Manny ""Ostermann"" Ostermann"	53	
+801	Ostermann	SkaterLastName	"Manny ""Ostermann"" Ostermann"	53	
+546	Marianne	SkaterFirstName	Marianne 	54	
+547	Mark	SkaterFirstName	Mark 	204	
+550	Mark	SkaterFirstName	"Mark ""Serviathan"" Servine"	129	
+955	Serviathan	skateralias1	"Mark ""Serviathan"" Servine"	129	
+820	Servine	SkaterLastName	"Mark ""Serviathan"" Servine"	129	
+551	Mark	SkaterFirstName	"Mark ""TFP"" Tagal"	56	
+834	Tagal	SkaterLastName	"Mark ""TFP"" Tagal"	56	
+971	TFP	skateralias1	"Mark ""TFP"" Tagal"	56	
+706	Conahan	SkaterLastName	Mark Conahan	268	
+548	Mark	SkaterFirstName	Mark Conahan	268	
+736	Goddard	SkaterLastName	Mark Goddard	211	
+549	Mark	SkaterFirstName	Mark Goddard	211	
+552	Matt	SkaterFirstName	Matt	57	
+886	Baileydog	skateralias1	"Matt ""Baileydog"" Levens"	100	
+773	Levens	SkaterLastName	"Matt ""Baileydog"" Levens"	100	
+556	Matt	SkaterFirstName	"Matt ""Baileydog"" Levens"	100	
+897	Chowdah	skateralias1	"Matt ""Chowdah"""	58	
+915	Hickskates	skateralias1	"Matt ""Hickskates"" Kenagy"	59	
+764	Kenagy	SkaterLastName	"Matt ""Hickskates"" Kenagy"	59	
+555	Matt	SkaterFirstName	"Matt ""Hickskates"" Kenagy"	59	
+760	Johnston	SkaterLastName	"Matt ""MLJ"" Johnston"	61	
+554	Matt	SkaterFirstName	"Matt ""MLJ"" Johnston"	61	
+930	MLJ	skateralias1	"Matt ""MLJ"" Johnston"	61	
+734	Glenovich	SkaterLastName	"Matt ""Reverend"" Glenovich"	60	
+553	Matt	SkaterFirstName	"Matt ""Reverend"" Glenovich"	60	
+950	Reverend	skateralias1	"Matt ""Reverend"" Glenovich"	60	
+557	Matt	SkaterFirstName	"Matt ""Wolfman"" Pickard"	62	
+805	Pickard	SkaterLastName	"Matt ""Wolfman"" Pickard"	62	
+981	Wolfman	skateralias1	"Matt ""Wolfman"" Pickard"	62	
+888	Ballard Max	skateralias1	"Max ""Ballard Max"" Hohlbein"	63	
+752	Hohlbein	SkaterLastName	"Max ""Ballard Max"" Hohlbein"	63	
+558	Max	SkaterFirstName	"Max ""Ballard Max"" Hohlbein"	63	
+559	Melvin	SkaterFirstName	Melvin 	224	
+732	Gilligan	SkaterLastName	"Meredith ""MaryAnne"" Gilligan"	203	
+925	MaryAnne	skateralias1	"Meredith ""MaryAnne"" Gilligan"	203	
+560	Meredith	SkaterFirstName	"Meredith ""MaryAnne"" Gilligan"	203	
+561	Micah	SkaterFirstName	Micah 	164	
+562	Micah	SkaterFirstName	Micah Shapiro	65	
+821	Shapiro	SkaterLastName	Micah Shapiro	65	
+563	Michael	SkaterFirstName	Michael Muir	214	
+788	Muir	SkaterLastName	Michael Muir	214	
+564	Michael	SkaterFirstName	Michael O'Friel	288	
+796	O'Friel	SkaterLastName	Michael O'Friel	288	
+912	Gravity Mike	skateralias1	"Mike ""Gravity Mike"" Lynch"	196	
+776	Lynch	SkaterLastName	"Mike ""Gravity Mike"" Lynch"	196	
+567	Mike	SkaterFirstName	"Mike ""Gravity Mike"" Lynch"	196	
+927	Micro	skateralias1	"Mike ""Micro"" Shaughnessy"	208	
+570	Mike	SkaterFirstName	"Mike ""Micro"" Shaughnessy"	208	
+822	Shaughnessy	SkaterLastName	"Mike ""Micro"" Shaughnessy"	208	
+680	Babcock	SkaterLastName	Mike Babcock	67	
+565	Mike	SkaterFirstName	Mike Babcock	67	
+728	Fisherman	SkaterLastName	Mike Fisherman	197	
+566	Mike	SkaterFirstName	Mike Fisherman	197	
+782	McKinney	SkaterLastName	Mike McKinney	66	
+568	Mike	SkaterFirstName	Mike McKinney	66	
+569	Mike	SkaterFirstName	Mike Pugh	143	
+808	Pugh	SkaterLastName	Mike Pugh	143	
+571	Miki	SkaterFirstName	Miki Vuckovich	219	
+843	Vuckovich	SkaterLastName	Miki Vuckovich	219	
+737	Green	SkaterLastName	"Miles ""Rebel"" Green"	226	
+572	Miles	SkaterFirstName	"Miles ""Rebel"" Green"	226	
+947	Rebel	skateralias1	"Miles ""Rebel"" Green"	226	
+694	Burgess	SkaterLastName	Morgan Burgess	277	
+573	Morgan	SkaterFirstName	Morgan Burgess	277	
+878	Morning Crew	skateralias1	Morning Crew	3	
+931	Mo	skateralias1	"Morris ""Mo"" Wainwright"	68	
+574	Morris	SkaterFirstName	"Morris ""Mo"" Wainwright"	68	
+844	Wainwright	SkaterLastName	"Morris ""Mo"" Wainwright"	68	
+575	Nancy	SkaterFirstName	Nancy Rockett	221	
+816	Rockett	SkaterLastName	Nancy Rockett	221	
+576	Natalie	SkaterFirstName	Natalie	71	
+785	Miller	SkaterLastName	Nate Miller	194	
+577	Nate	SkaterFirstName	Nate Miller	194	
+692	Brusseau	SkaterLastName	Neil Brusseau	237	
+578	Neil	SkaterFirstName	Neil Brusseau	237	
+712	Dallett	SkaterLastName	"Nick ""Snake"" Dallett"	72	
+579	Nick	SkaterFirstName	"Nick ""Snake"" Dallett"	72	
+963	Snake	skateralias1	"Nick ""Snake"" Dallett"	72	
+580	Nicky	SkaterFirstName	Nicky Wilson	134	
+851	Wilson	SkaterLastName	Nicky Wilson	134	
+702	Carmen	SkaterLastName	Niko Carmen	73	
+581	Niko	SkaterFirstName	Niko Carmen	73	
+759	Johnson	SkaterLastName	Nolan Johnson	171	
+582	Nolan	SkaterFirstName	Nolan Johnson	171	NULL
+789	Munroe	SkaterLastName	Nolan Munroe	281	
+583	Nolan	SkaterFirstName	Nolan Munroe	281	
+584	None	SkaterFirstName	None	74	
+725	Fancher	SkaterLastName	Packy Fancher	278	
+585	Packy	SkaterFirstName	Packy Fancher	278	
+586	Palmer	SkaterFirstName	Palmer 	234	
+3	Alcatraz banks	Park		 	
+4	Arlington	Park		 	
+5	Aumsville	Park		 	
+6	Autumn Bowl	Park		 	
+8	Backyard ramp	Park		 	
+9	Baileys Ramp (Kirkland	Park		 	
+10	Bainbridge Island	Park		 	
+11	Balboa Creek	Park		 	
+12	Ballard Bowl	Park		 	
+13	Battle Ground	Park		 	
+15	Brentwood School	Park		 	
+16	Buhl	Park		 	
+17	Burien	Park		 	
+18	Burnside (Portland	Park		 	
+19	Carnation	Park		 	
+20	Chicken Coop Ramp (Port Townsend	Park		 	
+21	Chino	Park		 	
+22	Crossroads (Bellevue	Park		 	
+25	Donald	Park		 	
+27	Florence	Park		 	
+28	Fontana	Park		 	
+31	Hailey	Park		 	
+33	Hillsboro	Park		 	
+35	Hood River	Park		 	
+37	Innerspace (Seattle	Park		 	
+38	Insane wall (Seattle	Park		 	
+39	Jellybean banks	Park		 	
+40	Jonahs Ramp (Duvall	Park		 	
+41	Ketchum	Park		 	
+43	Klamath Falls	Park		 	
+44	Kuna	Park		 	
+45	LaGrande	Park		 	
+46	Leavenworth	Park		 	
+47	Lincoln City	Park		 	
+49	Marginal way (Seattle	Park		 	
+50	MArina Del Rey	Park		 	
+51	Medford	Park		 	
+52	Mill Creek	Park		 	
+53	Milton	Park		 	
+55	Milton-Freewater	Park		 	
+56	Milton-Freewater	Park		 	
+57	Mukilteo	Park		 	
+60	Newberg	Park		 	
+61	Newport	Park		 	
+62	Nolans Ramp (San Clemente	Park		 	
+63	Orcas Island	Park		 	
+65	Pier Park (Portland	Park		 	
+67	Port Angeles	Park		 	
+68	Port Townsend	Park		 	
+69	Private ramp (Newberg	Park		 	
+70	Redmond	Park		 	
+71	Reedsport	Park		 	
+72	Renton	Park		 	
+73	Richland	Park		 	
+75	Sequim	Park		 	
+76	Sprinker (Spanaway	Park		 	
+77	Sumner	Park		 	
+793	Ngoho	SkaterLastName	Pat Ngoho	292	
+587	Pat	SkaterFirstName	Pat Ngoho	292	
+770	Laak	SkaterLastName	"Paul ""Pablito"" Laak"	179	
+940	Pablito	skateralias1	"Paul ""Pablito"" Laak"	179	
+589	Paul	SkaterFirstName	"Paul ""Pablito"" Laak"	179	
+707	Constantineau	SkaterLastName	"Paul ""PC"" Constantineau"	128	
+588	Paul	SkaterFirstName	"Paul ""PC"" Constantineau"	128	
+941	PC	skateralias1	"Paul ""PC"" Constantineau"	128	
+713	Dallett	SkaterLastName	Payton Dallett	105	
+590	Payton	SkaterFirstName	Payton Dallett	105	
+591	Pete	SkaterFirstName	Pete 	116	
+942	Pete from Weed	skateralias1	"Pete ""Pete from Weed"""	116	
+592	Peter	SkaterFirstName	Peter 	250	
+593	Peter	SkaterFirstName	"Peter ""Petesahooligan"" Whitley"	75	
+943	Petesahooligan	skateralias1	"Peter ""Petesahooligan"" Whitley"	75	
+849	Whitley	SkaterLastName	"Peter ""Petesahooligan"" Whitley"	75	
+958	SkateGoodNow	skateralias1	"Peter ""SkateGoodNow"""	250	
+594	Phoenix	SkaterFirstName	Phoenix Tagal	76	
+835	Tagal	SkaterLastName	Phoenix Tagal	76	
+193	 Jim Anderson	Photographer		 	
+186	 Matt Pickard	Photographer		 	
+169	 Scott Shinn	Photographer		 	
+595	Piers	SkaterFirstName	Piers 	77	
+948	RedDog	skateralias1	"Piers ""RedDog"""	77	
+724	Elvenstar	SkaterLastName	Podge Elvenstar	236	
+596	Podge	SkaterFirstName	Podge Elvenstar	236	
+879	2xQ	skateralias1	"Quincy ""2xQ"" Quigg"	149	
+809	Quigg	SkaterLastName	"Quincy ""2xQ"" Quigg"	149	
+597	Quincy	SkaterFirstName	"Quincy ""2xQ"" Quigg"	149	
+742	Hanford	SkaterLastName	Randy Hanford	79	
+598	Randy	SkaterFirstName	Randy Hanford	79	
+599	Ricky	SkaterFirstName	Ricky Styles	141	
+832	Styles	SkaterLastName	Ricky Styles	141	
+774	Linderman	SkaterLastName	Rion Linderman	285	
+600	Rion	SkaterFirstName	Rion Linderman	285	
+601	Rob	SkaterFirstName	Rob Skala	81	
+826	Skala	SkaterLastName	Rob Skala	81	
+602	Robert	SkaterFirstName	"Robert ""Zim"" Zimmer"	159	
+984	Zim	skateralias1	"Robert ""Zim"" Zimmer"	159	
+854	Zimmer	SkaterLastName	"Robert ""Zim"" Zimmer"	159	
+603	Roy	SkaterFirstName	Roy 	83	
+952	Roy Wonder	skateralias1	"Roy ""Roy Wonder"""	83	
+735	Glifberg	SkaterLastName	Rune  Glifberg	276	
+604	Rune 	SkaterFirstName	Rune  Glifberg	276	
+914	Hass	skateralias1	"Ryan ""Hass"" Hass"	174	
+745	Hass	SkaterLastName	"Ryan ""Hass"" Hass"	174	
+607	Ryan	SkaterFirstName	"Ryan ""Hass"" Hass"	174	
+748	Hebert	SkaterLastName	"Ryan ""Milton Ryan"" Hebert"	136	
+928	Milton Ryan	skateralias1	"Ryan ""Milton Ryan"" Hebert"	136	
+608	Ryan	SkaterFirstName	"Ryan ""Milton Ryan"" Hebert"	136	
+710	Crase	SkaterLastName	"Ryan ""smith_grind"" Crase"	107	
+606	Ryan	SkaterFirstName	"Ryan ""smith_grind"" Crase"	107	
+962	smith_grind	skateralias1	"Ryan ""smith_grind"" Crase"	107	
+698	Camarillo	SkaterLastName	Ryan Camarillo	84	
+605	Ryan	SkaterFirstName	Ryan Camarillo	84	
+798	Olson	SkaterLastName	Sabin Olson	252	
+609	Sabin	SkaterFirstName	Sabin Olson	252	
+610	Sally	SkaterFirstName	Sally 	191	
+611	Sam	SkaterFirstName	Sam Willis	86	
+850	Willis	SkaterLastName	Sam Willis	86	
+612	Sam	SkaterFirstName	Sam Wohlers	119	
+853	Wohlers	SkaterLastName	Sam Wohlers	119	
+907	Ego	skateralias1	"Scott ""Ego"""	87	
+613	Scott	SkaterFirstName	"Scott ""Ego"""	87	
+905	DonQuixote2	skateralias1	"Scott B. ""DonQuixote2"" Shinn"	188	
+614	Scott B.	SkaterFirstName	"Scott B. ""DonQuixote2"" Shinn"	188	
+823	Shinn	SkaterLastName	"Scott B. ""DonQuixote2"" Shinn"	188	
+615	Sergie	SkaterFirstName	Sergie Ventura	293	
+841	Ventura	SkaterLastName	Sergie Ventura	293	
+683	Bell	SkaterLastName	Shane Bell	284	
+616	Shane	SkaterFirstName	Shane Bell	284	
+617	Shannon	SkaterFirstName	Shannon	88	
+685	Bishop	SkaterLastName	Shawn Bishop	199	
+618	Shawn	SkaterFirstName	Shawn Bishop	199	
+783	McLean	SkaterLastName	Shawn McLean	90	
+619	Shawn	SkaterFirstName	Shawn McLean	90	
+769	Kubo	SkaterLastName	Shogo Kubo	239	
+620	Shogo	SkaterFirstName	Shogo Kubo	239	
+957	Shorty	skateralias1	Shorty	158	
+824	Siljeg	SkaterLastName	Sky Siljeg	289	
+621	Sky	SkaterFirstName	Sky Siljeg	289	NULL
+622	Steve	SkaterFirstName	Steve 	167	
+893	Bulky	skateralias1	"Steve ""Bulky"" Olson"	94	
+799	Olson	SkaterLastName	"Steve ""Bulky"" Olson"	94	
+627	Steve	SkaterFirstName	"Steve ""Bulky"" Olson"	94	
+944	Ping	skateralias1	"Steve ""Ping"" Pingleton"	91	
+806	Pingleton	SkaterLastName	"Steve ""Ping"" Pingleton"	91	
+628	Steve	SkaterFirstName	"Steve ""Ping"" Pingleton"	91	
+673	Alba	SkaterLastName	"Steve ""Salba"" Alba"	92	
+953	Salba	skateralias1	"Steve ""Salba"" Alba"	92	
+623	Steve	SkaterFirstName	"Steve ""Salba"" Alba"	92	
+966	Steve the drunk	skateralias1	"Steve ""Steve the drunk"""	167	
+684	Betten	SkaterLastName	"Steve ""Swervo"" Betten"	93	
+624	Steve	SkaterFirstName	"Steve ""Swervo"" Betten"	93	
+968	Swervo	skateralias1	"Steve ""Swervo"" Betten"	93	
+715	Davis	SkaterLastName	Steve Davis	265	
+625	Steve	SkaterFirstName	Steve Davis	265	
+739	Grover	SkaterLastName	Steve Grover	283	
+626	Steve	SkaterFirstName	Steve Grover	283	
+811	Reeves	SkaterLastName	Steve Reeves	290	
+629	Steve	SkaterFirstName	Steve Reeves	290	
+831	Steadham	SkaterLastName	Steve Steadham	282	
+630	Steve	SkaterFirstName	Steve Steadham	282	
+767	Kilgore	SkaterLastName	Steven Kilgore	206	
+631	Steven	SkaterFirstName	Steven Kilgore	206	
+969	Talley	skateralias1	Talley	111	
+970	Team Rhino	skateralias1	Team Rhino	126	
+787	Moat	SkaterLastName	Ted Moat	162	
+632	Ted	SkaterFirstName	Ted Moat	162	
+709	Courser	SkaterLastName	Thomas Courser	232	
+633	Thomas	SkaterFirstName	Thomas Courser	232	
+755	Janda	SkaterLastName	Thor Janda	201	
+634	Thor	SkaterFirstName	Thor Janda	201	
+717	Demmon	SkaterLastName	"Tim ""Timebomb"" Demmon"	168	
+635	Tim	SkaterFirstName	"Tim ""Timebomb"" Demmon"	168	
+973	Timebomb	skateralias1	"Tim ""Timebomb"" Demmon"	168	
+747	Hayes	SkaterLastName	Tim Hayes	200	
+636	Tim	SkaterFirstName	Tim Hayes	200	
+637	Todd	SkaterFirstName	"Todd ""Winklemeat"" Winkleman"	95	
+852	Winkleman	SkaterLastName	"Todd ""Winklemeat"" Winkleman"	95	
+980	Winklemeat	skateralias1	"Todd ""Winklemeat"" Winkleman"	95	
+669	Aaron	SkaterLastName	"Tom ""XTeamRider"" Aaron"	96	
+638	Tom	SkaterFirstName	"Tom ""XTeamRider"" Aaron"	96	
+982	XTeamRider	skateralias1	"Tom ""XTeamRider"" Aaron"	96	
+786	Miller	SkaterLastName	Tom Miller	97	
+639	Tom	SkaterFirstName	Tom Miller	97	
+803	Peha	SkaterLastName	Tom Peha	106	
+640	Tom	SkaterFirstName	Tom Peha	106	
+641	Tony	SkaterFirstName	Tony	246	
+890	Birdman	skateralias1	"Tony ""Birdman"" Hawk"	207	
+746	Hawk	SkaterLastName	"Tony ""Birdman"" Hawk"	207	
+642	Tony	SkaterFirstName	"Tony ""Birdman"" Hawk"	207	
+679	Augustine	SkaterLastName	Travis Augustine	120	
+643	Travis	SkaterFirstName	Travis Augustine	120	
+644	Unknown	SkaterFirstName	Unknown	98	
+974	Various	skateralias1	Various	123	
+645	Vern	SkaterFirstName	Vern	101	
+781	Maxwell	SkaterLastName	Wade Maxwell	267	
+646	Wade	SkaterFirstName	Wade Maxwell	267	
+678	Atkins	SkaterLastName	Wes Atkins	102	
+647	Wes	SkaterFirstName	Wes Atkins	102	
+733	Gilligan	SkaterLastName	"Will ""Skipper"" Gilligan"	202	
+959	Skipper	skateralias1	"Will ""Skipper"" Gilligan"	202	
+648	Will	SkaterFirstName	"Will ""Skipper"" Gilligan"	202	
+807	Powers	SkaterLastName	"Will ""Will from Southern Oregon"" Powers"	155	
+649	Will	SkaterFirstName	"Will ""Will from Southern Oregon"" Powers"	155	
+979	Will from Southern Oregon	skateralias1	"Will ""Will from Southern Oregon"" Powers"	155	
+704	Cavasso	SkaterLastName	Willie Cavasso	121	
+650	Willie	SkaterFirstName	Willie Cavasso	121	
+812	Richardson	SkaterLastName	"Zack ""Zakima"" Richardson"	108	
+651	Zack	SkaterFirstName	"Zack ""Zakima"" Richardson"	108	
+983	Zakima	skateralias1	"Zack ""Zakima"" Richardson"	108	
+652	Zak	SkaterFirstName	Zak 	247	
+2	666 ramp (Redmond	Park		 	
+66	Pier park	Park			
+78	The Bloc	Park			
+79	The Dogghouse (Port Townsend	Park		 	
+85	West Linn	Park		 	
+87	Whorehouse Banks	Park		 	
+88	Woodburn	Park		 	
+89	Woodinville	Park		 	
+90	Yakima	Park		 	

@@ -10,8 +10,7 @@ const utility = require("./utility.js");
 const path = require("path");
 const Session = require("./session.js");
 const SiteStats = require("./sitestats.js");
-//const aws = require("aws");
-//const mysql = require("mysql");
+const SnakeSessionsDataConnection = require("./snakesessionsdataconnection");
 
 
 // main server object
@@ -64,7 +63,46 @@ router.get("/search", (request, response) => {
 // Site Stats
 
 router.get("/site-stats", (request, response) => {
+
+  let qstring = "CALL sp_sitestats";
+  let myconnection = new SnakeSessionsDataConnection();
   
+  myconnection.Connect().then(() =>{
+      myconnection.Query(qstring).then((result) => {
+        
+          let sitestats = new SiteStats();
+          let rowset = result[0];
+          rowset.forEach(element => {
+            if('STATS' == element.STATS)
+            {
+              console.log("this is STATS: " + JSON.stringify(element));
+              sitestats.m_cPictures = element.cPictures;
+              sitestats.m_cSkaters = element.cSkaters;
+              sitestats.m_cVideos = element.cVideos;
+            }
+            else if ('SESSION' == element.STATS)
+            {
+              console.log("this is SESSION: " + JSON.stringify(element));
+              let S = new Session();
+              S.m_park = element.PARK;
+              S.m_date = element.DATE;
+              S.m_cMediaItems = element.MEDIA;
+              sitestats.addSession(S);
+            }
+            else{
+              console.log("dunno what this is: " + JSON.stringify(element));
+            }
+          });
+          
+
+         response.writeHead(200,{"Content-Type" : "text/JSON"});
+         //response.write(JSON.stringify(result[0][0]));
+         response.write(JSON.stringify(sitestats));
+         response.end();
+         myconnection.Close();
+      });
+  });
+/*
   let sitestats = new SiteStats();
   // initialize with default data (TODO: connect to the database and retrieve live data)
   sitestats.m_cPictures = 900;
@@ -87,7 +125,7 @@ router.get("/site-stats", (request, response) => {
   response.writeHead(200,{"Content-Type" : "text/JSON"});
   response.write(JSON.stringify(sitestats));
   response.end();
-  
+  */
 } );
 
   

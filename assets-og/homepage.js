@@ -19,7 +19,7 @@ function processSiteStats(){
     g_SiteStats.m_sessions.forEach(
         (item, index) => {
             
-            a.innerHTML += "<li><a href='" + item.m_queryLink +  "'>" + item.m_park + " : " + item.m_date + "(" + item.m_cMediaItems + " items)</li>";    
+            a.innerHTML += "<li><a href='" + item.m_queryLink +  "'>" + item.m_park + " : " + item.m_date + " (" + item.m_cMediaItems + " items)</li>";    
             
              
         }
