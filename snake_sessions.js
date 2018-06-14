@@ -56,9 +56,7 @@ router.get("/", (request, response) =>{
 
 // Search
 router.get("/search", (request, response) => {
-  response.writeHead(200, {"Content-Type" : "text/html"});
-  response.write("<html><head><link rel=\"stylesheet\" href=\"stylesheets/dallett.css\"/><title>Skate Photo / Video search</title></head><body><h1>Search coming soon</h1></body></html>");
-  response.end();
+  response.sendFile(path.join(__dirname,"./includes","searchframe.html" ));
 } );
 
 // Site Stats
