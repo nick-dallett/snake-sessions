@@ -8,6 +8,7 @@ const path = require("path");
 
 module.exports.getFileInclude = function (include)
 {
+    // TODO: move these parametter checks inside the Promise and reject on failure
     if (!filesystem){
       console.log("filesystem object not available.");
     }
@@ -20,6 +21,7 @@ module.exports.getFileInclude = function (include)
     const filepath = path.join("./includes/", include + ".txt");
 
     return new Promise( (resolve, reject) => {
-        filesystem.readFile(filepath, (err,data) => { (err) ? reject(err) : resolve(data);})});
+        filesystem.readFile(filepath, (err,data) => { (err) ? reject(err) : resolve(data);})
+      });
     
 }

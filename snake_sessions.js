@@ -34,6 +34,7 @@ snake_sessions_server.use('/assets', express.static(path.join(__dirname, 'assets
 
 /*
 TODO: this is cute and all, but really I should be just returning a single static page, and fetching sitestats using xmlhttp...
+This is based on my original site that used server-side-includes, but this structure isn't necessary (and it's clunky when implemented as 3 separate reads wrapped in Promises)
  */
 
 router.get("/", (request, response) =>{
@@ -73,7 +74,7 @@ router.get("/site-stats", (request, response) => {
           let sitestats = new SiteStats();
           let rowset = result[0];
           rowset.forEach(element => {
-            if('STATS' == element.STATS)
+            if('STATS' == element.STATS) // TODO: Change to use a switch
             {
               console.log("this is STATS: " + JSON.stringify(element));
               sitestats.m_cPictures = element.cPictures;
@@ -94,38 +95,12 @@ router.get("/site-stats", (request, response) => {
             }
           });
           
-
          response.writeHead(200,{"Content-Type" : "text/JSON"});
-         //response.write(JSON.stringify(result[0][0]));
          response.write(JSON.stringify(sitestats));
          response.end();
          myconnection.Close();
       });
   });
-/*
-  let sitestats = new SiteStats();
-  // initialize with default data (TODO: connect to the database and retrieve live data)
-  sitestats.m_cPictures = 900;
-  sitestats.m_cSkaters = 909;
-  sitestats.m_cVideos = 90909;
-
-  // add a default list of sessions
-  for(var i = 0; i < 5; i++)
-  {
-    
-    let S = new Session();
-    S.m_park = "Park from hell: " + i.toString();
-    S.m_date = "12/12/1200";
-    S.m_cMediaItems = 9999;
-    S.m_queryLink = "/search";
-    sitestats.addSession(S);
-    
-  }
-
-  response.writeHead(200,{"Content-Type" : "text/JSON"});
-  response.write(JSON.stringify(sitestats));
-  response.end();
-  */
 } );
 
   
