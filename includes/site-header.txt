@@ -1,6 +1,0 @@
-<HTML>
-	<HEAD>
-		<title>S N A K E  .  S E S S I O N S</title>
-		<link rel="stylesheet" href="stylesheets/dallett.css">
-		<script src = "assets/homepage.js"></script>
-	</HEAD>

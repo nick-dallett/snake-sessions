@@ -1,0 +1,50 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="/assets/dallett.css"/>
+		<script src = "/assets/search.js"></script>
+	</head>
+	<body onload="initSearchPage()">
+		<form action="doSearch()">
+			<table style='margin-top:0;'>
+				<tr>
+					<td colspan="2" zstyle='background-color:#008000;padding:5px;border:2px solid #C00000;'><span style="font-size:18pt;font-weight:bold;color:#0000C0;display:block">Snake Sessions</span>Skate 
+						media database search</td>
+					<td align="right"><b>Skater:</b></td>
+					<td><select id="selSkater">
+							<option value="0">All</option>
+						</select></td>
+					<td align="right"><b>Park:</b></td>
+					<td colspan="3"><select id="selPark">
+							<option>All</option>
+						</select></td>
+				</tr>
+				<tr>
+					<td align="right"><B>Date Range: FROM</B></td>
+					<td><input type="text" id="inputStartDate"><B>TO</B> <input type="text" id="inputEndDate"></td>
+					<td align="right"><b>Trick:</b></td>
+					<td><select id="selTrick">
+							<option>All</option>
+						</select></td>
+					<td align="right"><b>Media Type:</b></td>
+					<td><select ID="selMediaType">
+							<option>All</option>
+						</select>
+					</td>
+					<td><Input type="submit" value="SEARCH"><br>
+					</td>
+				</tr>
+				<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td colspan=3 align=right><input type=checkbox name="unsorted"> Show only untagged photos</td>
+				
+				</tr>
+			</table>
+		</form>
+		<span>
+			<a target='_top' style='text-decoration:underline;color:#8080FF;' href="/">
+				BACK to the homepage</a></span>
+
+	</body>
+</html>

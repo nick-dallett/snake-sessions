@@ -5,8 +5,8 @@
 // import needed packages
 const express = require("express");
 const http = require("http"); 
-const filesystem = require("fs");
-const utility = require("./utility.js");
+//const filesystem = require("fs");
+//const utility = require("./utility.js");
 const path = require("path");
 const Session = require("./session.js");
 const SiteStats = require("./sitestats.js");
@@ -22,8 +22,8 @@ snake_sessions_server.listen(80, () => {
 })
 
 snake_sessions_server.use("/",router);
-snake_sessions_server.use('/stylesheets', express.static(path.join(__dirname, 'assets-og/stylesheets')));
-snake_sessions_server.use('/assets', express.static(path.join(__dirname, 'assets-og')));
+//snake_sessions_server.use('/stylesheets', express.static(path.join(__dirname, 'assets-og/stylesheets')));
+snake_sessions_server.use('/assets', express.static(path.join(__dirname, 'assets')));
 
 
 /*********************************/
@@ -38,25 +38,12 @@ This is based on my original site that used server-side-includes, but this struc
  */
 
 router.get("/", (request, response) =>{
-  response.writeHead(200, {"Content-Type" : "text/html"});
-
-  // add page header
-   utility.getFileInclude("site-header").then( x => { 
-     response.write(x);
-     // add page body
-     utility.getFileInclude("homepage-body").then(y => {
-       response.write(y);
-       // add page footer
-       utility.getFileInclude("site-footer").then(z => {
-         response.write(z);
-         response.end();});
-        } );
-      } );
+  response.sendFile(path.join(__dirname,"assets","homepage.html" ));
     } );
 
 // Search
 router.get("/search", (request, response) => {
-  response.sendFile(path.join(__dirname,"./includes","searchframe.html" ));
+  response.sendFile(path.join(__dirname,"assets","search.html" ));
 } );
 
 // Site Stats
@@ -101,7 +88,28 @@ router.get("/site-stats", (request, response) => {
   });
 } );
 
+router.get("/search-terms", (request, response) => {
+  let qstring = "CALL sp_SearchTerms";
+  let myconnection = new SnakeSessionsDataConnection();
   
+  try {
+        myconnection.Connect().then(() =>{
+          myconnection.Query(qstring).then((result) => {
+            response.writeHead(200,{"Content-Type" : "text/JSON"});
+            response.write(JSON.stringify(result[0]));
+            response.end();
+            myconnection.Close();
+          });
+        });
+      }
+      catch (err){
+        response.writeHead(500);
+        response.write(err);
+        response.end();
+        myconnection.Close();
+      }
+    });
+
 
 
 
