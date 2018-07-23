@@ -1,6 +1,12 @@
 
 const xhr = new XMLHttpRequest();
 
+function initSearchPage(){
+    xhr.addEventListener("load", processSearchTerms);
+    xhr.open("GET","/search-terms");
+    xhr.send();
+}
+
 function processSearchTerms(){
    
    let terms = JSON.parse(xhr.responseText);
@@ -37,8 +43,54 @@ function processSearchTerms(){
   }
 }
 
-function initSearchPage(){
-    xhr.addEventListener("load", processSearchTerms);
-    xhr.open("GET","/search-terms");
-    xhr.send();
+function processSearchResults(){
+    alert("processing search results");
+    alert(xhr.responseText);
+}
+
+function processSearchError(){
+    alert("error");
+    alert(xhr.responseText);
+}
+
+/*
+function processChanges(){
+    alert(xhr.readyState);
+}
+*/
+
+function PerformSearch(){
+    
+    var searchPayload = new function(){
+        this.minDate = document.getElementById("inputStartDate").value;
+        this.maxDate = document.getElementById("inputEndDate").value;
+
+        let selection = document.getElementById("selSkater");
+        this.skaterID = selection.options[selection.selectedIndex].value;
+
+        selection = document.getElementById("selPark");
+        this.park = selection.options[selection.selectedIndex].text;
+
+        selection = document.getElementById("selTrick");
+        this.trick = selection.options[selection.selectedIndex].text;
+
+        selection = document.getElementById("selMediaType");
+        this.mediaType = selection.options[selection.selectedIndex].text;
+
+        this.unsorted = document.getElementById("chkUnsorted").checked;
+    }
+    
+    let payload = JSON.stringify(searchPayload);
+
+   //alert(payload);
+   //alert(payload.length);
+
+    xhr.addEventListener("load", processSearchResults);
+    xhr.addEventListener("error",processSearchError);
+   // xhr.addEventListener("readystatechange",processChanges);
+    xhr.open("POST","/execute-search");
+    xhr.setRequestHeader("Content-Type", "application/json");
+    xhr.setRequestHeader("Content-Length", payload.length );
+    xhr.send(payload);
+
 }

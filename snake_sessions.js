@@ -4,6 +4,7 @@
 
 // import needed packages
 const express = require("express");
+const bodyParser = require("body-parser");
 const http = require("http"); 
 //const filesystem = require("fs");
 //const utility = require("./utility.js");
@@ -16,14 +17,13 @@ const SnakeSessionsDataConnection = require("./snakesessionsdataconnection");
 // main server object
 const snake_sessions_server = express();
 const router = express.Router();
+snake_sessions_server.use(bodyParser.json());
+snake_sessions_server.use("/",router);
+snake_sessions_server.use('/assets', express.static(path.join(__dirname, 'assets')));
  
 snake_sessions_server.listen(80, () => {
   console.log(`Server running at port 80`);
 })
-
-snake_sessions_server.use("/",router);
-//snake_sessions_server.use('/stylesheets', express.static(path.join(__dirname, 'assets-og/stylesheets')));
-snake_sessions_server.use('/assets', express.static(path.join(__dirname, 'assets')));
 
 
 /*********************************/
@@ -31,11 +31,6 @@ snake_sessions_server.use('/assets', express.static(path.join(__dirname, 'assets
 /*********************************/
 
 //Homepage
-
-/*
-TODO: this is cute and all, but really I should be just returning a single static page, and fetching sitestats using xmlhttp...
-This is based on my original site that used server-side-includes, but this structure isn't necessary (and it's clunky when implemented as 3 separate reads wrapped in Promises)
- */
 
 router.get("/", (request, response) =>{
   response.sendFile(path.join(__dirname,"assets","homepage.html" ));
@@ -108,6 +103,18 @@ router.get("/search-terms", (request, response) => {
         response.end();
         myconnection.Close();
       }
+    });
+
+    router.post("/execute-search", (request, response) => {
+      console.log("received a post");
+      let payload = request.body;
+      //console.log(payload);
+      console.log(JSON.stringify(payload));
+
+      response.write(JSON.stringify(payload));
+      //response.write(payload);
+      response.end();
+
     });
 
 
