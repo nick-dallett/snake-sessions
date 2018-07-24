@@ -68,19 +68,13 @@ try {
                                 
                             }
                             else{
-                                //console.log(file + " is not a directory");
-                               
+                                //console.log(file + " is not a directory");  
                             }
-
-
                         }
-                            
-
                     });
                     numDone++;
                     //console.log("TASKS: " + numTasks);
                     //console.log("DONE: " + numDone);
-
                 });
             }
         });

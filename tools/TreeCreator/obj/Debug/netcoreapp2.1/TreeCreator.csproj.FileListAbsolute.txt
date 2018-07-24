@@ -1,0 +1,11 @@
+C:\Projects\Snake_Sessions\snake-sessions\tools\TreeCreator\obj\Debug\netcoreapp2.1\TreeCreator.csprojAssemblyReference.cache
+C:\Projects\Snake_Sessions\snake-sessions\tools\TreeCreator\obj\Debug\netcoreapp2.1\TreeCreator.csproj.CoreCompileInputs.cache
+C:\Projects\Snake_Sessions\snake-sessions\tools\TreeCreator\obj\Debug\netcoreapp2.1\TreeCreator.AssemblyInfoInputs.cache
+C:\Projects\Snake_Sessions\snake-sessions\tools\TreeCreator\obj\Debug\netcoreapp2.1\TreeCreator.AssemblyInfo.cs
+C:\Projects\Snake_Sessions\snake-sessions\tools\TreeCreator\bin\Debug\netcoreapp2.1\TreeCreator.deps.json
+C:\Projects\Snake_Sessions\snake-sessions\tools\TreeCreator\bin\Debug\netcoreapp2.1\TreeCreator.runtimeconfig.json
+C:\Projects\Snake_Sessions\snake-sessions\tools\TreeCreator\bin\Debug\netcoreapp2.1\TreeCreator.runtimeconfig.dev.json
+C:\Projects\Snake_Sessions\snake-sessions\tools\TreeCreator\bin\Debug\netcoreapp2.1\TreeCreator.dll
+C:\Projects\Snake_Sessions\snake-sessions\tools\TreeCreator\bin\Debug\netcoreapp2.1\TreeCreator.pdb
+C:\Projects\Snake_Sessions\snake-sessions\tools\TreeCreator\obj\Debug\netcoreapp2.1\TreeCreator.dll
+C:\Projects\Snake_Sessions\snake-sessions\tools\TreeCreator\obj\Debug\netcoreapp2.1\TreeCreator.pdb
